@@ -1,0 +1,110 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/339.ts
+#EXTINF:0 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX.jpg" group-title="Film",CINEMAX
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/345.ts
+#EXTINF:0 tvg-id="CINEMAX 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX_2.jpg" group-title="Film",CINEMAX 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1712.ts
+#EXTINF:0 tvg-id="CBS EUROPA" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Film",CBS EUROPA
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/26210.ts
+#EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/10190.ts
+#EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2713.ts
+#EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FILMBOX PREMIUM
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1705.ts
+#EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/351.ts
+#EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Serial",EPIC DRAMA
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2694.ts
+#EXTINF:0 tvg-id="BBC FIRST" tvg-logo="https://picon-13398.kxcdn.com/bbcfirstpl.jpg" group-title="Serial",BBC FIRST
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/26545.ts
+#EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304314.ts
+#EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/10194.ts
+#EXTINF:0 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_2.jpg" group-title="Film",HBO 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3217.ts
+#EXTINF:0 tvg-id="HBO 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_3.jpg" group-title="Film",HBO 3
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1704.ts
+#EXTINF:0 tvg-id="CANAL+ FILM" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Film",CANAL+ FILM
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1714.ts
+#EXTINF:0 tvg-id="CANAL+ SERIALE" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Serial",CANAL+ SERIALE
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/342.ts
+#EXTINF:0 tvg-id="CANAL+ PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Film",CANAL+ PREMIUM
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/341.ts
+#EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/24247.ts
+#EXTINF:0 tvg-id="CANAL+ FAMILY" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Serial",CANAL+ FAMILY
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/147180.ts
+#EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/24242.ts
+#EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3227.ts
+#EXTINF:0 tvg-id="AMC" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Film",AMC
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/26539.ts
+#EXTINF:0 tvg-id="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",SUNDANCE TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2705.ts
+
+#EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1702.ts
+#EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/16657.ts
+#EXTINF:0 tvg-id="PLANETE+" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Wiedza",PLANETE +
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1701.ts
+#EXTINF:0 tvg-id="STUDIOMED" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED.jpg" group-title="Styl życia",STUDIOMED
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/193765.ts
+#EXTINF:0 tvg-id="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Styl życia",TLC
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3210.ts
+
+#EXTINF:0 tvg-id="POLSAT SPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_1.jpg" group-title="Sport",POLSAT SPORT 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/356.ts
+#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/353.ts
+#EXTINF:0 tvg-id="POLSAT SPORT 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_3.jpg" group-title="Sport",POLSAT SPORT 3
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304317.ts
+#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/SKY_SPORTS_F1.jpg" group-title="Sport",SKY SPORTS F1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/265.ts
+#EXTINF:0 tvg-id="MOTOWIZJA" tvg-logo="https://picon-13398.kxcdn.com/motowizjatv.jpg" group-title="Sport",MOTOWIZJA
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3216.ts
+#EXTINF:0 tvg-id="CANAL+ SPORT" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",CANAL+ SPORT
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/69426.ts
+#EXTINF:0 tvg-id="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",CANAL+ SPORT 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/343.ts
+#EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2275.ts
+#EXTINF:0 tvg-id="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_1.jpg" group-title="Sport",EUROSPORT 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/348.ts
+#EXTINF:0 tvg-id="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_2.jpg" group-title="Sport",EUROSPORT 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3218.ts
+
+#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Informacja",TV REPUBLIKA
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/18932.ts
+
+#EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="FIRST MUSIC" tvg-logo="https://picon-13398.kxcdn.com/1musicchannelro.jpg" group-title="Muzyka",FIRST MUSIC
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="MTV 80S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 80s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302302.ts
+#EXTINF:0 tvg-id="MTV 90S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 90s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/67657.ts
+#EXTINF:0 tvg-id="MTV 00S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 00s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304316.ts
+
+#EXTINF:0 tvg-id="181.FM - THE MIX" tvg-logo="" group-title="Radio",181.FM - THE MIX
+http://listen.livestreamingservice.com:8032
+#EXTINF:0 tvg-id="1.FM - CAFE RADIO" tvg-logo="" group-title="Radio",1.FM - CAFE RADIO
+http://strm112.1.fm/caferadio_mobile_mp3
+#EXTINF:0 tvg-id="181.FM - KICKIN' COUNTRY" tvg-logo="" group-title="Radio",181.FM - KICKIN' COUNTRY
+http://listen.livestreamingservice.com:8130
+#EXTINF:0 tvg-id="181.FM - UK TOP 40 HITS" tvg-logo="" group-title="Radio",181.FM - UK TOP 40 HITS
+http://uplink.181.fm:8070
+#EXTINF:0 tvg-id="ESKA WARSZAWA" tvg-logo="" group-title="Radio",ESKA WARSZAWA
+http://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-warszawa
+#EXTINF:0 tvg-id="RADIO ZET" tvg-logo="" group-title="Radio",RADIO ZET
+https://zt03.cdn.eurozet.pl/zet-tun.mp3
+#EXTINF:0 tvg-id="RMF FM" tvg-logo="" group-title="Radio",RMF FM
+http://195.150.20.242:8000/rmf_fm
+#EXTINF:0 tvg-id="RADIO WNET" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RADIO_WNET.jpg" group-title="Radio",RADIO WNET
+http://media.wnet.fm:80/wnet.fm

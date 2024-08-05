@@ -1,0 +1,110 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520046&extension=ts
+#EXTINF:0 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX.jpg" group-title="Film",CINEMAX
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520067&extension=ts
+#EXTINF:0 tvg-id="CINEMAX 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX_2.jpg" group-title="Film",CINEMAX 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520066&extension=ts
+#EXTINF:0 tvg-id="CBS EUROPA" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Film",CBS EUROPA
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519773&extension=ts
+#EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=652942&extension=ts
+#EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728504&extension=ts
+#EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FILMBOX PREMIUM
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520065&extension=ts
+#EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520063&extension=ts
+#EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Serial",EPIC DRAMA
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520074&extension=ts
+#EXTINF:0 tvg-id="BBC FIRST" tvg-logo="https://picon-13398.kxcdn.com/bbcfirstpl.jpg" group-title="Serial",BBC FIRST
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520165&extension=ts
+#EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=653033&extension=ts
+#EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520058&extension=ts
+#EXTINF:0 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_2.jpg" group-title="Film",HBO 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520059&extension=ts
+#EXTINF:0 tvg-id="HBO 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_3.jpg" group-title="Film",HBO 3
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520060&extension=ts
+#EXTINF:0 tvg-id="CANAL+ FILM" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Film",CANAL+ FILM
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520069&extension=ts
+#EXTINF:0 tvg-id="CANAL+ SERIALE" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Serial",CANAL+ SERIALE
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519771&extension=ts
+#EXTINF:0 tvg-id="CANAL+ PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Film",CANAL+ PREMIUM
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519772&extension=ts
+#EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=640602&extension=ts
+#EXTINF:0 tvg-id="CANAL+ FAMILY" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Serial",CANAL+ FAMILY
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520068&extension=ts
+#EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520056&extension=ts
+#EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520071&extension=ts
+#EXTINF:0 tvg-id="AMC" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Film",AMC
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520051&extension=ts
+#EXTINF:0 tvg-id="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",SUNDANCE TV
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519799&extension=ts
+
+#EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520158&extension=ts
+#EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=653001&extension=ts
+#EXTINF:0 tvg-id="PLANETE+" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Wiedza",PLANETE +
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520153&extension=ts
+#EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519798&extension=ts
+#EXTINF:0 tvg-id="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Styl życia",TLC
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520151&extension=ts
+
+#EXTINF:0 tvg-id="POLSAT SPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_1.jpg" group-title="Sport",POLSAT SPORT 1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520181&extension=ts
+#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520180&extension=ts
+#EXTINF:0 tvg-id="POLSAT SPORT 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_3.jpg" group-title="Sport",POLSAT SPORT 3
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520200&extension=ts
+#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg" group-title="Sport",SKY SPORTS F1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=565956&extension=ts
+#EXTINF:0 tvg-id="MOTOWIZJA" tvg-logo="https://picon-13398.kxcdn.com/motowizjatv.jpg" group-title="Sport",MOTOWIZJA
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519786&extension=ts
+#EXTINF:0 tvg-id="CANAL+ SPORT" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",CANAL+ SPORT
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520178&extension=ts
+#EXTINF:0 tvg-id="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",CANAL+ SPORT 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520182&extension=ts
+#EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=799413&extension=ts
+#EXTINF:0 tvg-id="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_1.jpg" group-title="Sport",EUROSPORT 1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520190&extension=ts
+#EXTINF:0 tvg-id="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_2.jpg" group-title="Sport",EUROSPORT 2
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520191&extension=ts
+
+#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Informacja",TV REPUBLIKA
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519763&extension=ts
+
+#EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="FIRST MUSIC" tvg-logo="https://picon-13398.kxcdn.com/1musicchannelro.jpg" group-title="Muzyka",FIRST MUSIC
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="MTV 80S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 80s
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728458&extension=ts
+#EXTINF:0 tvg-id="MTV 90S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 90s
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728460&extension=ts
+#EXTINF:0 tvg-id="MTV 00S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 00s
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728462&extension=ts
+
+#EXTINF:0 tvg-id="181.FM - THE MIX" tvg-logo="" group-title="Radio",181.FM - THE MIX
+http://listen.livestreamingservice.com:8032
+#EXTINF:0 tvg-id="1.FM - CAFE RADIO" tvg-logo="" group-title="Radio",1.FM - CAFE RADIO
+http://strm112.1.fm/caferadio_mobile_mp3
+#EXTINF:0 tvg-id="181.FM - KICKIN' COUNTRY" tvg-logo="" group-title="Radio",181.FM - KICKIN' COUNTRY
+http://listen.livestreamingservice.com:8130
+#EXTINF:0 tvg-id="181.FM - UK TOP 40 HITS" tvg-logo="" group-title="Radio",181.FM - UK TOP 40 HITS
+http://uplink.181.fm:8070
+#EXTINF:0 tvg-id="ESKA WARSZAWA" tvg-logo="" group-title="Radio",ESKA WARSZAWA
+http://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-warszawa
+#EXTINF:0 tvg-id="RADIO ZET" tvg-logo="" group-title="Radio",RADIO ZET
+https://zt03.cdn.eurozet.pl/zet-tun.mp3
+#EXTINF:0 tvg-id="RMF FM" tvg-logo="" group-title="Radio",RMF FM
+http://195.150.20.242:8000/rmf_fm
+#EXTINF:0 tvg-id="RADIO WNET" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RADIO_WNET.jpg" group-title="Radio",RADIO WNET
+http://media.wnet.fm:80/wnet.fm
