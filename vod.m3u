@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 group-title="Film VOD",FILM 1
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639873.mp4&type=movie
+#EXTINF:0 group-title="Film VOD",FILM 2
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639874.avi&type=movie
+#EXTINF:0 FILM 3
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641536.avi&type=movie
+#EXTINF:0 FILM 4
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641538.mp4&type=movie
