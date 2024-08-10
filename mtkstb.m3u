@@ -5,7 +5,7 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520046&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520067&extension=ts
 #EXTINF:0 tvg-id="CINEMAX 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX_2.jpg" group-title="Film",CINEMAX 2
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520066&extension=ts
-#EXTINF:0 tvg-id="CBS EUROPA" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Film",CBS EUROPA
+#EXTINF:0 tvg-id="FILM CAFE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519773&extension=ts
 #EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=652942&extension=ts
