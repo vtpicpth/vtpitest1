@@ -79,7 +79,7 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520190&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520191&extension=ts
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Informacja",TV REPUBLIKA
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519763&extension=ts
+https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
 #EXTINF:0 tvg-id="WPOLSCE.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE.PL.jpg" group-title="Informacja",WPOLSCE.PL
 https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
 

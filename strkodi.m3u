@@ -103,7 +103,9 @@ http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/348.ts
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3218.ts
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Informacja",TV REPUBLIKA
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/18932.ts
+https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
+#EXTINF:0 tvg-id="WPOLSCE.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE.PL.jpg" group-title="Informacja",WPOLSCE.PL
+https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
 #EXTINF:0 tvg-id="TVP INFO" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_INFO.jpg" group-title="Informacja" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP INFO
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=INF&chID=
 
