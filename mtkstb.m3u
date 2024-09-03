@@ -78,9 +78,9 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520190&exten
 #EXTINF:0 tvg-id="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_2.jpg" group-title="Sport",EUROSPORT 2
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520191&extension=ts
 
-#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Informacja",TV REPUBLIKA
+#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
-#EXTINF:0 tvg-id="WPOLSCE.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE.PL.jpg" group-title="Informacja",WPOLSCE.PL
+#EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
@@ -102,7 +102,7 @@ http://strm112.1.fm/caferadio_mobile_mp3
 http://listen.livestreamingservice.com:8130
 #EXTINF:0 tvg-id="181.FM - UK TOP 40 HITS" tvg-logo="" group-title="Radio",181.FM - UK TOP 40 HITS
 http://uplink.181.fm:8070
-#EXTINF:0 tvg-id="ESKA WARSZAWA" tvg-logo="" group-title="Radio",ESKA WARSZAWA
+#EXTINF:0 tvg-id="ESKA" tvg-logo="" group-title="Radio",ESKA WARSZAWA
 http://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-warszawa
 #EXTINF:0 tvg-id="RADIO ZET" tvg-logo="" group-title="Radio",RADIO ZET
 https://zt03.cdn.eurozet.pl/zet-tun.mp3

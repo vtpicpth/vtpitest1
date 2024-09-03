@@ -78,9 +78,9 @@ http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/348.ts
 #EXTINF:0 tvg-id="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_2.jpg" group-title="Sport",EUROSPORT 2
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3218.ts
 
-#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Informacja",TV REPUBLIKA
+#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
-#EXTINF:0 tvg-id="WPOLSCE.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE.PL.jpg" group-title="Informacja",WPOLSCE.PL
+#EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
