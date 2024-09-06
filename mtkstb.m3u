@@ -80,8 +80,12 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520191&exten
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
+#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA_PLUS.jpg" group-title="Informacja",REPUBLIKA PLUS
+https://ythls.armelin.one/channel/UCZGrD2wCJ7mxgZ2ps2RNKoQ.m3u8
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
+#EXTINF:0 tvg-id="WEBCAMERA.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
+https://ythls.armelin.one/channel/UCh2MI-QmqjA40IYO4oCXdUw.m3u8
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
