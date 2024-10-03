@@ -79,11 +79,11 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520190&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520191&extension=ts
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
-https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519763&extension=ts
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA_PLUS.jpg" group-title="Informacja",REPUBLIKA PLUS
 https://ythls.armelin.one/channel/UCZGrD2wCJ7mxgZ2ps2RNKoQ.m3u8
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
-https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519804&extension=ts
 #EXTINF:0 tvg-id="WEBCAMERA.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
 https://ythls.armelin.one/channel/UCh2MI-QmqjA40IYO4oCXdUw.m3u8
 
@@ -101,7 +101,7 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728462&exten
 #EXTINF:0 tvg-id="181.FM - THE MIX" tvg-logo="" group-title="Radio",181.FM - THE MIX
 http://listen.livestreamingservice.com:8032
 #EXTINF:0 tvg-id="1.FM - CAFE RADIO" tvg-logo="" group-title="Radio",1.FM - CAFE RADIO
-http://strm112.1.fm/caferadio_mobile_mp3
+http://185.33.21.112:80/caferadio_128
 #EXTINF:0 tvg-id="181.FM - KICKIN' COUNTRY" tvg-logo="" group-title="Radio",181.FM - KICKIN' COUNTRY
 http://listen.livestreamingservice.com:8130
 #EXTINF:0 tvg-id="181.FM - UK TOP 40 HITS" tvg-logo="" group-title="Radio",181.FM - UK TOP 40 HITS
