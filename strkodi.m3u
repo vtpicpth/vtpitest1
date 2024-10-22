@@ -1,10 +1,12 @@
 ﻿#EXTM3U
 #EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/339.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520046&extension=ts
+#EXTINF:0 tvg-id="CBS EUROPA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519773&extension=ts
 #EXTINF:0 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX.jpg" group-title="Film",CINEMAX
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/345.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520067&extension=ts
 #EXTINF:0 tvg-id="CINEMAX 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX_2.jpg" group-title="Film",CINEMAX 2
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1712.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520066&extension=ts
 #EXTINF:0 tvg-id="TVP KULTURA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_KULTURA.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP KULTURA
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T5D&chID=
 #EXTINF:0 tvg-id="TVP KULTURA 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_KULTURA_2.jpg" group-title="Film",TVP KULTURA 2
@@ -13,50 +15,48 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KUL2&chID=
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T1D&chID=
 #EXTINF:0 tvg-id="TVP 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_2.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP 2
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T2D&chID=
-#EXTINF:0 tvg-id="FILM CAFE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/26210.ts
 #EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/10190.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=652942&extension=ts
 #EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2713.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728504&extension=ts
 #EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FILMBOX PREMIUM
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1705.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520065&extension=ts
 #EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/351.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520063&extension=ts
 #EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Serial",EPIC DRAMA
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2694.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520074&extension=ts
 #EXTINF:0 tvg-id="BBC FIRST" tvg-logo="https://picon-13398.kxcdn.com/bbcfirstpl.jpg" group-title="Serial",BBC FIRST
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/26545.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520165&extension=ts
 #EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304314.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=653033&extension=ts
 #EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/10194.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520058&extension=ts
 #EXTINF:0 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_2.jpg" group-title="Film",HBO 2
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3217.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520059&extension=ts
 #EXTINF:0 tvg-id="HBO 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_3.jpg" group-title="Film",HBO 3
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1704.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520060&extension=ts
 #EXTINF:0 tvg-id="CANAL+ FILM" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Film",CANAL+ FILM
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1714.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520069&extension=ts
 #EXTINF:0 tvg-id="CANAL+ SERIALE" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Serial",CANAL+ SERIALE
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/342.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519771&extension=ts
 #EXTINF:0 tvg-id="CANAL+ PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Film",CANAL+ PREMIUM
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/341.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519772&extension=ts
 #EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/24247.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=640602&extension=ts
 #EXTINF:0 tvg-id="CANAL+ FAMILY" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Serial",CANAL+ FAMILY
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/147180.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520068&extension=ts
 #EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/24242.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520056&extension=ts
 #EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3227.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520071&extension=ts
 #EXTINF:0 tvg-id="AMC" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Film",AMC
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/26539.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520051&extension=ts
 #EXTINF:0 tvg-id="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",SUNDANCE TV
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2705.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519799&extension=ts
 #EXTINF:0 tvg-id="STOPKLATKA" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film",STOPKLATKA
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/26190.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519797&extension=ts
 #EXTINF:0 tvg-id="ANTENA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ANTENA.jpg" group-title="Film",ANTENA
-http://843113089903749237.ofd0628.xyz:80/live/Pedr920BM/630994922M123/749237.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=653000&extension=ts
 
 #EXTINF:0 tvg-id="TVP DOKUMENT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_DOKUMENT.jpg" group-title="Wiedza" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP DOKUMENT
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DOK&chID=
@@ -67,60 +67,85 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=H2&chID=
 #EXTINF:0 tvg-id="TVP NAUKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_NAUKA.jpg" group-title="Wiedza" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP NAUKA
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=NK&chID=
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1702.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520158&extension=ts
 #EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/16657.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=653001&extension=ts
 #EXTINF:0 tvg-id="FOKUS TV" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Wiedza",FOKUS TV
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/24267.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519781&extension=ts
 #EXTINF:0 tvg-id="PLANETE+" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Wiedza",PLANETE +
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1701.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520153&extension=ts
 #EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/193765.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519798&extension=ts
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Styl życia",TLC
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3210.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520151&extension=ts
 
 #EXTINF:0 tvg-id="POLSAT SPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_1.jpg" group-title="Sport",POLSAT SPORT 1
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/356.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520181&extension=ts
 #EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/353.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520180&extension=ts
 #EXTINF:0 tvg-id="POLSAT SPORT 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_3.jpg" group-title="Sport",POLSAT SPORT 3
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304317.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520200&extension=ts
 #EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/SKY_SPORTS_F1.jpg" group-title="Sport",SKY SPORTS F1
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/265.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=565956&extension=ts
 #EXTINF:0 tvg-id="MOTOWIZJA" tvg-logo="https://picon-13398.kxcdn.com/motowizjatv.jpg" group-title="Sport",MOTOWIZJA
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3216.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519786&extension=ts
 #EXTINF:0 tvg-id="CANAL+ SPORT" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",CANAL+ SPORT
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/69426.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520178&extension=ts
 #EXTINF:0 tvg-id="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",CANAL+ SPORT 2
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/343.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520182&extension=ts
 #EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2275.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=799413&extension=ts
 #EXTINF:0 tvg-id="TVP SPORT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_SPORT.jpg" group-title="Sport" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP SPORT
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=KSP&chID=
 #EXTINF:0 tvg-id="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_1.jpg" group-title="Sport",EUROSPORT 1
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/348.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520190&extension=ts
 #EXTINF:0 tvg-id="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EUROSPORT_2.jpg" group-title="Sport",EUROSPORT 2
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3218.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520191&extension=ts
 
-#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA_PLUS.jpg" group-title="Informacja",REPUBLIKA PLUS
-plugin://plugin.video.youtube/play/?video_id=pMFVsBdcF0E
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
+#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA_PLUS.jpg" group-title="Informacja",REPUBLIKA PLUS
+plugin://plugin.video.youtube/play/?video_id=pMFVsBdcF0E
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
 #EXTINF:0 tvg-id="TVP INFO" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_INFO.jpg" group-title="Informacja" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP INFO
 plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=INF&chID=
+#EXTINF:0 tvg-id="WEBCAMERA.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
+https://ythls.armelin.one/channel/UCh2MI-QmqjA40IYO4oCXdUw.m3u8
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="FIRST MUSIC" tvg-logo="https://picon-13398.kxcdn.com/1musicchannelro.jpg" group-title="Muzyka",FIRST MUSIC
 http://rtmp.one.by:1300
-#EXTINF:0 tvg-id="MTV 80S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 80s
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302302.ts
+#EXTINF:0 tvg-id="MTV HITS" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV HITS
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728458&extension=ts
 #EXTINF:0 tvg-id="MTV 90S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 90s
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/67657.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728460&extension=ts
 #EXTINF:0 tvg-id="MTV 00S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 00s
-http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304316.ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=728462&extension=ts
+
+#EXTINF:0 tvg-id="TVP KULTURA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_KULTURA.jpg" group-title="Film",TVP KULTURA
+/mnt/dtvfs/live/dvb:2268.3.1f/media.ts
+#EXTINF:0 tvg-id="TVP 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_1.jpg" group-title="Film",TVP 1
+/mnt/dtvfs/live/dvb:2268.3.1/media.ts
+#EXTINF:0 tvg-id="TVP 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_2.jpg" group-title="Film",TVP 2
+/mnt/dtvfs/live/dvb:2268.3.2/media.ts
+#EXTINF:0 tvg-id="STOPKLATKA" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film",STOPKLATKA
+/mnt/dtvfs/live/dvb:2268.1.34/media.ts
+#EXTINF:0 tvg-id="ANTENA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ANTENA.jpg" group-title="Film",ANTENA
+/mnt/dtvfs/live/dvb:2268.1.1e/media.ts
+#EXTINF:0 tvg-id="TVP DOKUMENT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_DOKUMENT.jpg" group-title="Wiedza",TVP DOKUMENT
+/mnt/dtvfs/live/dvb:2268.3a2.3d/media.ts
+#EXTINF:0 tvg-id="TVP NAUKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_NAUKA.jpg" group-title="Wiedza",TVP NAUKA
+/mnt/dtvfs/live/dvb:2268.3a2.42/media.ts
+#EXTINF:0 tvg-id="TVP HISTORIA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_HISTORIA.jpg" group-title="Wiedza",TVP HISTORIA
+/mnt/dtvfs/live/dvb:2268.3.20/media.ts
+#EXTINF:0 tvg-id="FOKUS TV" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Wiedza",FOKUS TV
+/mnt/dtvfs/live/dvb:2268.1.35/media.ts
+#EXTINF:0 tvg-id="TVP SPORT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_SPORT.jpg" group-title="Sport",TVP SPORT
+/mnt/dtvfs/live/dvb:2268.3.21/media.ts
+#EXTINF:0 tvg-id="TVP INFO" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_INFO.jpg" group-title="Informacja",TVP INFO
+/mnt/dtvfs/live/dvb:2268.3.23/media.ts
 
 #EXTINF:0 radio="true",tvg-id="181.FM - THE MIX" tvg-logo="" group-title="Radio",181.FM - THE MIX
 http://listen.livestreamingservice.com:8032
