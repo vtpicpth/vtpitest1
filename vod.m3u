@@ -1,83 +1,97 @@
 #EXTM3U
-#EXTINF:0 group-title="Film VOD",12 MAŁP (1995)
+#EXTINF:0 group-title="Film VOD",12 MAŁP (1995 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639876.avi&type=movie
-#EXTINF:0 group-title="Film VOD",21 MOSTÓW (2019)
+#EXTINF:0 group-title="Film VOD",21 MOSTÓW (2019 THRILLER)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639887.avi&type=movie
-#EXTINF:0 group-title="Film VOD",ATOMIC BLONDE (2017)
+#EXTINF:0 group-title="Film VOD",ATOMIC BLONDE (2017 THRILLER)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640004.mp4&type=movie
-#EXTINF:0 group-title="Film VOD",BOHEMIAN RAPSODY (2018)
+#EXTINF:0 group-title="Film VOD",BOHEMIAN RAPSODY (2018 DRAMAT)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640073.avi&type=movie
-#EXTINF:0 group-title="Film VOD",GRAN TORINO (2008)
+#EXTINF:0 group-title="Film VOD",GRAN TORINO (2008 DRAMAT)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640332.mp4&type=movie
-#EXTINF:0 group-title="Film VOD",INDIANA JONES I ŚWIĄTYNIA ZAGŁADY (1984)
+#EXTINF:0 group-title="Film VOD",INDIANA JONES I ŚWIĄTYNIA ZAGŁADY (1984 PRZYGODOWY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640418.avi&type=movie
-#EXTINF:0 group-title="Film VOD",INDIANA JONES I OSTATNIA KRUCJATA (1989)
+#EXTINF:0 group-title="Film VOD",INDIANA JONES I OSTATNIA KRUCJATA (1989 PRZYGODOWY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640416.avi&type=movie
-#EXTINF:0 group-title="Film VOD",INDIANA JONES I KRÓLESTWO KRYSZTAŁOWEJ CZASZKI (2008)
+#EXTINF:0 group-title="Film VOD",INDIANA JONES I KRÓLESTWO KRYSZTAŁOWEJ CZASZKI (2008 PRZYGODOWY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640415.mp4&type=movie
-#EXTINF:0 group-title="Film VOD",JACK REACHER (2012)
+#EXTINF:0 group-title="Film VOD",JACK REACHER: JEDNYM STRZAŁEM (2012 KRYMINAŁ)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640435.avi&type=movie
-#EXTINF:0 group-title="Film VOD",JACK REACHER: NIGDY NIE WRACAJ (2016)
+#EXTINF:0 group-title="Film VOD",JACK REACHER: NIGDY NIE WRACAJ (2016 KRYMINAŁ)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640436.avi&type=movie
-#EXTINF:0 group-title="Film VOD",KATYŃ (2018)
+#EXTINF:0 group-title="Film VOD",KATYŃ (2018 DRAMAT)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640490.mkv&type=movie
-#EXTINF:0 group-title="Film VOD",MISSION: IMPOSSIBLE - FALLOUT (2018)
+#EXTINF:0 group-title="Film VOD",MISSION: IMPOSSIBLE - FALLOUT (2018 SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640672.avi&type=movie
-#EXTINF:0 group-title="Film VOD",MUSTANG (2019)
+#EXTINF:0 group-title="Film VOD",MUSTANG (2019 DRAMAT)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640718.avi&type=movie
-#EXTINF:0 group-title="Film VOD",OSACZONY (2005)
+#EXTINF:0 group-title="Film VOD",OSACZONY (2005 THRILLER)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640817.avi&type=movie
-#EXTINF:0 group-title="Film VOD",OSKAR (1991)
+#EXTINF:0 group-title="Film VOD",OSKAR (1991 KOMEDIA)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640821.avi&type=movie
-#EXTINF:0 group-title="Film VOD",PITCH BLACK (2000)
+#EXTINF:0 group-title="Film VOD",PITCH BLACK (2000 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640879.avi&type=movie
-#EXTINF:0 group-title="Film VOD",PRAWDZIWE KŁAMSTWA (1994)
+#EXTINF:0 group-title="Film VOD",PRAWDZIWE KŁAMSTWA (1994 KOMEDIA)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640937.avi&type=movie
-#EXTINF:0 group-title="Film VOD",SICARIO (2015)
+#EXTINF:0 group-title="Film VOD",SICARIO (2015 DRAMAT)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641085.mp4&type=movie
-#EXTINF:0 group-title="Film VOD",SNOWDEN (2016)
+#EXTINF:0 group-title="Film VOD",SNOWDEN (2016 THRILLER)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641121.avi&type=movie
-#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: CZĘŚĆ 1 - MROCZNE WIDMO (1999)
+#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: CZĘŚĆ 1 - MROCZNE WIDMO (1999 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641154.avi&type=movie
-#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: CZĘŚĆ 2 - ATAK KLONÓW (2002)
+#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: CZĘŚĆ 2 - ATAK KLONÓW (2002 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641155.avi&type=movie
-#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: PRZEBUDZENIE MOCY (2015)
+#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: PRZEBUDZENIE MOCY (2015 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641160.avi&type=movie
-#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: CZĘŚĆ 8 - OSTATNI JEDI (2017)
+#EXTINF:0 group-title="Film VOD",GWIEZDNE WOJNY: CZĘŚĆ 8 - OSTATNI JEDI (2017 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641161.mkv&type=movie
-#EXTINF:0 group-title="Film VOD",TENET (2020)
+#EXTINF:0 group-title="Film VOD",TENET (2020 THRILLER)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641229.avi&type=movie
-#EXTINF:0 group-title="Film VOD",TERMINATOR (1984)
+#EXTINF:0 group-title="Film VOD",TERMINATOR (1984 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641231.avi&type=movie
-#EXTINF:0 group-title="Film VOD",TERMINATOR 2: DZIEŃ SĄDU (1989)
+#EXTINF:0 group-title="Film VOD",TERMINATOR 2: DZIEŃ SĄDU (1989 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641232.avi&type=movie
-#EXTINF:0 group-title="Film VOD",TERMINATOR 3: BUNT MASZYN (2003)
+#EXTINF:0 group-title="Film VOD",TERMINATOR 3: BUNT MASZYN (2003 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641233.avi&type=movie
-#EXTINF:0 group-title="Film VOD",TERMINATOR: GENISYS (2015)
+#EXTINF:0 group-title="Film VOD",TERMINATOR: GENISYS (2015 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641234.avi&type=movie
-#EXTINF:0 group-title="Film VOD",TITANIC (1997)
+#EXTINF:0 group-title="Film VOD",TITANIC (1997 DRAMAT)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641334.avi&type=movie
-#EXTINF:0 group-title="Film VOD",SZAKAL (1997)
+#EXTINF:0 group-title="Film VOD",SZAKAL (1997 SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641193.avi&type=movie
-#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA (1988)
+#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA (1988 SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641197.avi&type=movie
-#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA 2 (1990)
+#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA 2 (1990 SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641198.avi&type=movie
-#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA 3 (1995)
+#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA 3 (1995 SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641199.avi&type=movie
-#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA 5 (2013)
+#EXTINF:0 group-title="Film VOD",SZKLANA PUŁAPKA 5 (2013 SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641201.avi&type=movie
-#EXTINF:0 group-title="Film VOD",UCIEKINIER (1987)
+#EXTINF:0 group-title="Film VOD",UCIEKINIER (1987 SCI-FI)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641361.avi&type=movie
-#EXTINF:0 group-title="Film VOD",LIKWIDATOR (2013)
+#EXTINF:0 group-title="Film VOD",LIKWIDATOR (2013 SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640579.avi&type=movie
-#EXTINF:0 group-title="Film VOD",1944 (2015)
+#EXTINF:0 group-title="Film VOD",1944 (2015 DRAMAT)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639884.avi&type=movie
-#EXTINF:0 group-title="Film VOD",AUTOR WIDMO (2010)
+#EXTINF:0 group-title="Film VOD",AUTOR WIDMO (2010 THRILLER)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640007.avi&type=movie
-#EXTINF:0 group-title="Film VOD",BEZ ŚLADU (2018)
+#EXTINF:0 group-title="Film VOD",BEZ ŚLADU (2018 THRILLER)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640046.avi&type=movie
-#EXTINF:0 group-title="Film VOD",BEZ TWARZY (1997)
+#EXTINF:0 group-title="Film VOD",BEZ TWARZY (1997SENSACYJNY)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640047.avi&type=movie
-#EXTINF:0 group-title="Film VOD",KRÓTKIE SPIĘCIE (1986)
-http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640535.avi&type=movie
+#EXTINF:0 group-title="Film VOD",ARIZONA JUNIOR (1987 KOMEDIA)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639989.avi&type=movie
+#EXTINF:0 group-title="Film VOD",JANE EYRE (2011 KOSTIUMOWY)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640454.mp4&type=movie
+#EXTINF:0 group-title="Film VOD",JOE (2014 DRAMAT)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640468.avi&type=movie
+#EXTINF:0 group-title="Film VOD",OSACZONY (2005 THRILLER)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640817.avi&type=movie
+#EXTINF:0 group-title="Film VOD",PTASIEK (1984 DRAMAT)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640967.avi&type=movie
+#EXTINF:0 group-title="Film VOD",PLANETA MAŁP (1968 SCI-FI)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640882.avi&type=movie
+#EXTINF:0 group-title="Film VOD",PODEJRZANY (2000 DRAMAT)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640907.mp4&type=movie
+#EXTINF:0 group-title="Film VOD",RÓŻYCZKA (2010 DRAMAT)
+http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641034.avi&type=movie
