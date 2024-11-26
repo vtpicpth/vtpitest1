@@ -43,8 +43,6 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519771&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519772&extension=ts
 #EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=640602&extension=ts
-#EXTINF:0 tvg-id="CANAL+ FAMILY" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Serial",CANAL+ FAMILY
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520068&extension=ts
 #EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520056&extension=ts
 #EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
@@ -105,7 +103,7 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520191&exten
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 https://ythls.armelin.one/channel/UCc282c_TN8xIba_Z6GaDnQw.m3u8
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA_PLUS.jpg" group-title="Informacja",REPUBLIKA PLUS
-plugin://plugin.video.youtube/play/?video_id=pMFVsBdcF0E
+https://ythls.armelin.one/channel/UCZGrD2wCJ7mxgZ2ps2RNKoQ.m3u8
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://ythls.armelin.one/channel/UCPiu4CZlknkTworskK79CPg.m3u8
 #EXTINF:0 tvg-id="TVP INFO" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_INFO.jpg" group-title="Informacja" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP INFO
