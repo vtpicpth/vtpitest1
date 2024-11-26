@@ -46,12 +46,12 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519799&exten
 
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520158&extension=ts
+#EXTINF:0 tvg-id="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/DISCOVERY.jpg" group-title="Wiedza",DISCOVERY
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520160&extension=ts
 #EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=653001&extension=ts
 #EXTINF:0 tvg-id="PLANETE+" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Wiedza",PLANETE +
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520153&extension=ts
-#EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519798&extension=ts
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Styl życia",TLC
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520151&extension=ts
 
