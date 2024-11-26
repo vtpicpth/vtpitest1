@@ -35,8 +35,6 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519771&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519772&extension=ts
 #EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=640602&extension=ts
-#EXTINF:0 tvg-id="CANAL+ FAMILY" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Serial",CANAL+ FAMILY
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520068&extension=ts
 #EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520056&extension=ts
 #EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
@@ -52,8 +50,6 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520158&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=653001&extension=ts
 #EXTINF:0 tvg-id="PLANETE+" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Wiedza",PLANETE +
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520153&extension=ts
-#EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=519798&extension=ts
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Styl życia",TLC
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:C6:ED&stream=520151&extension=ts
 
