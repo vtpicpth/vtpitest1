@@ -1,10 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
 http://178.219.128.68:64889/ALEKINOHD
-#EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
-http://178.219.128.68:64888/TNTHD
-#EXTINF:0 tvg-id="FILMBOX ACTION" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film",FILMBOX ACTION
-http://185.236.229.62:9981/play/a033
 #EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
 http://178.219.128.68:64889/FOXHD
 #EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
@@ -23,16 +19,15 @@ http://178.219.128.68:64888/KINOTV
 http://178.219.128.68:64888/AXN
 #EXTINF:0 tvg-id="AMC" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Film",AMC
 http://178.219.128.68:64889/AMCHD
+#EXTINF:0 tvg-id="FILMBOX ACTION" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film",FILMBOX ACTION
+http://185.236.229.62:9981/play/a033
 #EXTINF:0 tvg-id="RAKUTEN TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RAKUTEN_TV.jpg" group-title="Film",RAKUTEN TV
 https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/2af51ba8-72c8-4f45-8516-3f66a2b9895d/2.m3u8
 #EXTINF:0 tvg-id="BIGTIME" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/BIGTIME.jpg" group-title="Film",BIGTIME
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/ff86de36-db8e-4ba9-81d8-b5df6f3b713a/2.m3u8
 
-
 #EXTINF:0 tvg-id="MOCONOMY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/MOCONOMY.jpg" group-title="Wiedza",MOCONOMY
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
-#EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
-https://da9c49fa.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/7b77a42f-d143-4022-be6d-549e3f3c27c9/2.m3u8
 #EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
 http://185.236.229.62:9981/play/a050
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Styl życia",TLC
@@ -42,8 +37,6 @@ http://178.219.128.68:64888/TLCHD
 http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:0 tvg-id="POLSAT SPORT 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_3.jpg" group-title="Sport",POLSAT SPORT 3
 http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:0 tvg-id="TENNIS CHANNEL 2" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL 2
-https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/bfd030ea-1ffa-4445-a3ea-3ef118bd60ef/3.m3u8
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 http://185.236.229.62:9981/play/a027
@@ -54,8 +47,6 @@ http://185.236.229.62:9981/play/a022
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="FIRST MUSIC" tvg-logo="https://picon-13398.kxcdn.com/1musicchannelro.jpg" group-title="Muzyka",FIRST MUSIC
 http://rtmp.one.by:1300
-#EXTINF:0 tvg-id="VIVA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/VIVA.jpg" group-title="Muzyka",VIVA
-https://hls.goodgame.ru/hls/180805.m3u8
 
 #EXTINF:0 tvg-id="181.FM - THE MIX" tvg-logo="" group-title="Radio",181.FM - THE MIX
 http://listen.livestreamingservice.com:8032
