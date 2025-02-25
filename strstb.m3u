@@ -28,7 +28,6 @@ https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-id="BIGTIME" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/BIGTIME.jpg" group-title="Film",BIGTIME
 https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/ff86de36-db8e-4ba9-81d8-b5df6f3b713a/2.m3u8
 
-
 #EXTINF:0 tvg-id="MOCONOMY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/MOCONOMY.jpg" group-title="Wiedza",MOCONOMY
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
 #EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
@@ -42,8 +41,6 @@ http://178.219.128.68:64888/TLCHD
 http://178.219.128.68:64889/POLSSPORHD
 #EXTINF:0 tvg-id="POLSAT SPORT 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_3.jpg" group-title="Sport",POLSAT SPORT 3
 http://178.219.128.68:64889/POLSSPORNEWSHD
-#EXTINF:0 tvg-id="TENNIS CHANNEL 2" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL 2
-https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/bfd030ea-1ffa-4445-a3ea-3ef118bd60ef/3.m3u8
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 http://185.236.229.62:9981/play/a027
@@ -61,6 +58,8 @@ https://hls.goodgame.ru/hls/180805.m3u8
 http://listen.livestreamingservice.com:8032
 #EXTINF:0 tvg-id="1.FM - CAFE RADIO" tvg-logo="" group-title="Radio",1.FM - CAFE RADIO
 http://185.33.21.112:80/caferadio_128
+#EXTINF:0 tvg-id="1.FM - BELOVED BALLADS" tvg-logo="" group-title="Radio",1.FM - BELOVED BALLADS
+http://185.33.21.112:80/onelive_128
 #EXTINF:0 tvg-id="181.FM - KICKIN' COUNTRY" tvg-logo="" group-title="Radio",181.FM - KICKIN' COUNTRY
 http://listen.livestreamingservice.com:8130
 #EXTINF:0 tvg-id="181.FM - UK TOP 40 HITS" tvg-logo="" group-title="Radio",181.FM - UK TOP 40 HITS
