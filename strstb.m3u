@@ -1,12 +1,24 @@
 ﻿#EXTM3U
 #EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
 http://178.219.128.68:64889/ALEKINOHD
-#EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
-http://178.219.128.68:64888/TNTHD
-#EXTINF:0 tvg-id="FILMBOX ACTION" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film",FILMBOX ACTION
-http://185.236.229.62:9981/play/a033
+#EXTINF:0 tvg-id="FILM CAFE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
+http://195.189.60.33:9011/play/a005
+#EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FILMBOX PREMIUM
+http://portal.freeott.top:8080/lb0/PL_Filmbox_Premium_HD/video.m3u8?token=Freeott
+#EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
+http://178.219.128.68:64888/FILMEXTRHD
+#EXTINF:0 tvg-id="FILMBOX FAMILY" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film",FILMBOX FAMILY
+http://178.219.128.68:64888/FILMFAMI
+#EXTINF:0 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX.jpg" group-title="Film",CINEMAX
+http://109.233.89.166/CINEMAX_HD/index.m3u8
+#EXTINF:0 tvg-id="CINEMAX 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX_2.jpg" group-title="Film",CINEMAX 2
+http://109.233.89.166/CINEMAX_2_HD/index.m3u8
+#EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
+http://109.233.89.170/Paramount_Channel_HD/index.m3u8
+#EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Serial",EPIC DRAMA
+http://stb.freeott.top:8080/lb0/PL_Epic_Drama_HD/video.m3u8?token=Freeott
 #EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
-http://178.219.128.68:64889/FOXHD
+http://109.233.89.170/FOX_HD/index.m3u8
 #EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
 http://178.219.128.68:64888/HBOHD
 #EXTINF:0 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_2.jpg" group-title="Film",HBO 2
@@ -17,42 +29,67 @@ http://178.219.128.68:64888/HBO3HD
 http://178.219.128.68:64889/CANAFILMHD
 #EXTINF:0 tvg-id="CANAL+ SERIALE" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Serial",CANAL+ SERIALE
 http://178.219.128.68:64888/CANASERIHD
+#EXTINF:0 tvg-id="CANAL+ PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Film",CANAL+ PREMIUM
+http://178.219.128.68:64889/CANAHD
+#EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
+http://178.219.128.68:64889/CANA1HD
 #EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
 http://178.219.128.68:64888/KINOTV
 #EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
 http://178.219.128.68:64888/AXN
 #EXTINF:0 tvg-id="AMC" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Film",AMC
-http://178.219.128.68:64889/AMCHD
-#EXTINF:0 tvg-id="RAKUTEN TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RAKUTEN_TV.jpg" group-title="Film",RAKUTEN TV
-https://d14678b7277b4f21964f367309c8f3e2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_TopMoviesPolska/2af51ba8-72c8-4f45-8516-3f66a2b9895d/2.m3u8
-#EXTINF:0 tvg-id="BIGTIME" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/BIGTIME.jpg" group-title="Film",BIGTIME
-https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/ff86de36-db8e-4ba9-81d8-b5df6f3b713a/2.m3u8
+http://109.233.89.166/AMC_HD/index.m3u8
+#EXTINF:0 tvg-id="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",SUNDANCE TV
+http://195.189.60.33:9002/play/a002
+#EXTINF:0 tvg-id="ROMANCE TV" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Film",ROMANCE TV
+http://109.233.89.170/Romance_TV_HD/index.m3u8
 
-#EXTINF:0 tvg-id="MOCONOMY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/MOCONOMY.jpg" group-title="Wiedza",MOCONOMY
-https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
+http://178.219.128.68:64889/NATIGEOGHD
+#EXTINF:0 tvg-id="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/DISCOVERY.jpg" group-title="Wiedza",DISCOVERY
+http://stb.freeott.top:8080/lb0/PL_Discovery_HD/video.m3u8?token=Freeott
+#EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
+http://178.219.128.68:64889/POLSVIASEXPLHD
 #EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
 https://da9c49fa.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/7b77a42f-d143-4022-be6d-549e3f3c27c9/2.m3u8
+#EXTINF:0 tvg-id="MOCONOMY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/MOCONOMY.jpg" group-title="Wiedza",MOCONOMY
+https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:0 tvg-id="PLANETE+" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Wiedza",PLANETE +
+http://178.219.128.68:64889/PLANHD
+
 #EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
-http://185.236.229.62:9981/play/a050
+http://195.189.60.33:9017/play/a004
 #EXTINF:0 tvg-id="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Styl życia",TLC
 http://178.219.128.68:64888/TLCHD
 
 #EXTINF:0 tvg-id="POLSAT SPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_1.jpg" group-title="Sport",POLSAT SPORT 1
-http://178.219.128.68:64889/POLSSPORHD
+http://109.233.89.170/Polsat_Sport_HD/index.m3u8
+#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
+http://109.233.89.170/Polsat_Sport_Extra_HD/index.m3u8
 #EXTINF:0 tvg-id="POLSAT SPORT 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_3.jpg" group-title="Sport",POLSAT SPORT 3
-http://178.219.128.68:64889/POLSSPORNEWSHD
+http://109.233.89.170/Polsat_Sport_News_HD/index.m3u8
+#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/SKY_SPORTS_F1.jpg" group-title="Sport",SKY SPORTS F1
+http://nxtplay.xyz:8080/play/live.php?mac=00:1A:79:A4:D1:E2&stream=368103&extension=ts
+#EXTINF:0 tvg-id="ELEVEN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ELEVEN_SPORTS_1.jpg" group-title="Sport",ELEVEN SPORTS 1
+http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ SPORT" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",CANAL+ SPORT
+http://178.219.128.68:64888/CANASPORHD
+#EXTINF:0 tvg-id="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",CANAL+ SPORT 2
+http://178.219.128.68:64888/CANASPOR2HD
+#EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
-http://185.236.229.62:9981/play/a027
+http://178.219.128.68:64888/TVREPU
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
-http://185.236.229.62:9981/play/a022
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:0 tvg-id="WEBCAMERA.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
+http://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="FIRST MUSIC" tvg-logo="https://picon-13398.kxcdn.com/1musicchannelro.jpg" group-title="Muzyka",FIRST MUSIC
 http://rtmp.one.by:1300
-#EXTINF:0 tvg-id="VIVA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/VIVA.jpg" group-title="Muzyka",VIVA
-https://hls.goodgame.ru/hls/180805.m3u8
 
 #EXTINF:0 tvg-id="181.FM - THE MIX" tvg-logo="" group-title="Radio",181.FM - THE MIX
 http://listen.livestreamingservice.com:8032
