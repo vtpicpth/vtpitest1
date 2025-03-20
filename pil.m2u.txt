@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Telewizja WP HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1647593375_158.png" group-title="WP Pilot" ,Telewizja WP HD
+plugin://plugin.video.wppilot?mode=playSource&cid=158
+#EXTINF:0 tvg-id="Kabaret TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1647954908_271.png" group-title="WP Pilot" ,Kabaret TV
+plugin://plugin.video.wppilot?mode=playSource&cid=271
+#EXTINF:0 tvg-id="TVP 1 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424843_97.png" group-title="WP Pilot" ,TVP 1 HD
+plugin://plugin.video.wppilot?mode=playSource&cid=3
+#EXTINF:0 tvg-id="TVP 2 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424860_98.png" group-title="WP Pilot" ,TVP 2 HD
+plugin://plugin.video.wppilot?mode=playSource&cid=5
+#EXTINF:0 tvg-id="Polsat HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1630576360_9.png" group-title="WP Pilot" ,Polsat HD
+plugin://plugin.video.wppilot?mode=playSource&cid=9
+#EXTINF:0 tvg-id="TVN" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424423_14.png" group-title="WP Pilot" ,TVN
+plugin://plugin.video.wppilot?mode=playSource&cid=14
+#EXTINF:0 tvg-id="TV 4 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424575_11.png" group-title="WP Pilot" ,TV 4 HD
+plugin://plugin.video.wppilot?mode=playSource&cid=11
+#EXTINF:0 tvg-id="TV Puls HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424649_12.png" group-title="WP Pilot" ,TV Puls HD
+plugin://plugin.video.wppilot?mode=playSource&cid=12
+#EXTINF:0 tvg-id="Puls 2" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1678696450_312.png" group-title="WP Pilot" ,Puls 2
+plugin://plugin.video.wppilot?mode=playSource&cid=312
+#EXTINF:0 tvg-id="4FUN.TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424686_21.png" group-title="WP Pilot" ,4FUN.TV
+plugin://plugin.video.wppilot?mode=playSource&cid=21
+#EXTINF:0 tvg-id="4FUN DANCE" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424712_50.png" group-title="WP Pilot" ,4FUN DANCE
+plugin://plugin.video.wppilot?mode=playSource&cid=50
+#EXTINF:0 tvg-id="4FUN KIDS" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1598946535_22.png" group-title="WP Pilot" ,4FUN KIDS
+plugin://plugin.video.wppilot?mode=playSource&cid=22
+#EXTINF:0 tvg-id="TVP Warszawa" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424807_57.png" group-title="WP Pilot" ,TVP Warszawa
+plugin://plugin.video.wppilot?mode=playSource&cid=57
+#EXTINF:0 tvg-id="TVP Gdańsk" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548424827_187.png" group-title="WP Pilot" ,TVP Gdańsk
+plugin://plugin.video.wppilot?mode=playSource&cid=187
+#EXTINF:0 tvg-id="News24" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1646821674_272.png" group-title="WP Pilot" ,News24
+plugin://plugin.video.wppilot?mode=playSource&cid=272
+#EXTINF:0 tvg-id="Red Top TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1646830016_273.png" group-title="WP Pilot" ,Red Top TV
+plugin://plugin.video.wppilot?mode=playSource&cid=273
+#EXTINF:0 tvg-id="Gametoon HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1551858790_205.png" group-title="WP Pilot" ,Gametoon HD
+plugin://plugin.video.wppilot?mode=playSource&cid=205
+#EXTINF:0 tvg-id="Stars.TV HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548427278_24.png" group-title="WP Pilot" ,Stars.TV HD
+plugin://plugin.video.wppilot?mode=playSource&cid=24
+#EXTINF:0 tvg-id="Music Box Polska" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1611308100_188.png" group-title="WP Pilot" ,Music Box Polska
+plugin://plugin.video.wppilot?mode=playSource&cid=188
+#EXTINF:0 tvg-id="Jazz HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1563871608_213.png" group-title="WP Pilot" ,Jazz HD
+plugin://plugin.video.wppilot?mode=playSource&cid=213
+#EXTINF:0 tvg-id="Fashion TV HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548426820_58.png" group-title="WP Pilot" ,Fashion TV HD
+plugin://plugin.video.wppilot?mode=playSource&cid=58
+#EXTINF:0 tvg-id="France 24 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548427127_18.png" group-title="WP Pilot" ,France 24 HD
+plugin://plugin.video.wppilot?mode=playSource&cid=18
+#EXTINF:0 tvg-id="France 24 English HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548427144_17.png" group-title="WP Pilot" ,France 24 English HD
+plugin://plugin.video.wppilot?mode=playSource&cid=17
+#EXTINF:0 tvg-id="Nuta GOLD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1671629670_172.png" group-title="WP Pilot" ,Nuta GOLD
+plugin://plugin.video.wppilot?mode=playSource&cid=172
+#EXTINF:0 tvg-id="wPolsce.pl HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548427163_174.png" group-title="WP Pilot" ,wPolsce.pl HD
+plugin://plugin.video.wppilot?mode=playSource&cid=174
+#EXTINF:0 tvg-id="TVS" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1551265038_51.png" group-title="WP Pilot" ,TVS
+plugin://plugin.video.wppilot?mode=playSource&cid=51
+#EXTINF:0 tvg-id="TV Trwam" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548427224_10.png" group-title="WP Pilot" ,TV Trwam
+plugin://plugin.video.wppilot?mode=playSource&cid=10
+#EXTINF:0 tvg-id="13.TV" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1646830035_274.png" group-title="WP Pilot" ,13.TV
+plugin://plugin.video.wppilot?mode=playSource&cid=274
+#EXTINF:0 tvg-id="Twoja.TV HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1549453620_150.png" group-title="WP Pilot" ,Twoja.TV HD
+plugin://plugin.video.wppilot?mode=playSource&cid=150
+#EXTINF:0 tvg-id="Red Carpet TV HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1548427249_138.png" group-title="WP Pilot" ,Red Carpet TV HD
+plugin://plugin.video.wppilot?mode=playSource&cid=138
+#EXTINF:0 tvg-id="Polonia 1" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1571408333_211.png" group-title="WP Pilot" ,Polonia 1
+plugin://plugin.video.wppilot?mode=playSource&cid=211
+#EXTINF:0 tvg-id="Tele 5 HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1571405500_212.png" group-title="WP Pilot" ,Tele 5 HD
+plugin://plugin.video.wppilot?mode=playSource&cid=212
+#EXTINF:0 tvg-id="TBN Polska HD" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1590744361_204.png" group-title="WP Pilot" ,TBN Polska HD
+plugin://plugin.video.wppilot?mode=playSource&cid=204
+#EXTINF:0 tvg-id="WP Radio" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1673267657_266.png" group-title="WP Pilot" ,WP Radio
+plugin://plugin.video.wppilot?mode=playSource&cid=266
+#EXTINF:0 tvg-id="Radio 357" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1603291637_None.png" group-title="WP Pilot" ,Radio 357
+plugin://plugin.video.wppilot?mode=playSource&cid=240
+#EXTINF:0 tvg-id="Radio Nowy Świat" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1594304861_238.png" group-title="WP Pilot" ,Radio Nowy Świat
+plugin://plugin.video.wppilot?mode=playSource&cid=238
+#EXTINF:0 tvg-id="TVT Rybnik" tvg-logo="https://pilot-static.wpcdn.pl/logotype/1667391748_298.png" group-title="WP Pilot" ,TVT Rybnik
+plugin://plugin.video.wppilot?mode=playSource&cid=298
