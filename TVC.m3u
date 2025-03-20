@@ -1,0 +1,155 @@
+﻿#EXTM3U
+
+   #EXTINF:-1 tvg-id="ALE KINO+" tvg-name="ALE KINO+" tvg-logo="https://picon-13398.kxcdn.com/alekinoplushd.jpg" group-title="Film",Ale kino+
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21289
+   #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://picon-13398.kxcdn.com/cinemaxhd.jpg" group-title="Film",Cinemax
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvr9I_TF3rm6d2ku3YUvQmn3BPXeLyQSRuv2WTRIxv4y4al6DMyBH2s_niL8wF84GWY
+   #EXTINF:-1 tvg-id="CINEMAX 2" tvg-name="CINEMAX 2" tvg-logo="https://picon-13398.kxcdn.com/cinemax2hd.jpg" group-title="Film",Cinemax 2
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvozG01WN50fqcj7e5EnrqEVYBBjT40Qi_7ixNCkqyQsgalqU2lmaxdqcwS3vivOmbE
+   #EXTINF:-1 tvg-id="TVP KULTURA" tvg-name="TVP KULTURA" tvg-logo="https://picon-13398.kxcdn.com/tvpkulturapl.jpg" group-title="Film",TVP Kultura
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=T5D&chID=
+   #EXTINF:-1 tvg-id="TVP KULTURA 2" tvg-name="TVP KULTURA 2" tvg-logo="https://picon-13398.kxcdn.com/tvpkulturapl.jpg" group-title="Film",TVP Kultura 2
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=&chID=47093982
+   #EXTINF:-1 tvg-id="TVP 1" tvg-name="TVP 1" tvg-logo="https://picon-13398.kxcdn.com/tvp1hd.jpg" group-title="Film",TVP 1
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=T1D&chID=
+
+   #EXTINF:-1 tvg-id="TVP 2" tvg-name="TVP 2" tvg-logo="https://picon-13398.kxcdn.com/tvp2hd.jpg" group-title="Film",TVP 2
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=T2D&chID=
+   #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",Paramount Network
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21385
+   #EXTINF:-1 tvg-id="WARNER TV" tvg-name="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",Warner TV
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvpNb4MdvXTlGoTDRFYj9f9E3rq6jhv1FesMf5MRm-36MT9rSfeQGN2OAiDhhOfSCMw
+   #EXTINF:-1 tvg-id="CBS EUROPA" tvg-name="CBS EUROPA" tvg-logo="https://picon-13398.kxcdn.com/cbseuropa.jpg" group-title="Film",CBS Europa
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvrDPNs4d7_hF3ovDl5PpYubYtLlrQGFVDSZyuCnXRhx5ZyxPJLsWKdSU39a3IhOtoQ
+   #EXTINF:-1 tvg-id="EPIC DRAMA" tvg-name="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Film",EPIC Drama
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvouR_TYr5MJIVEsiInatLzVzV4PW962R4BUqabPVsC9t1CTaD3W4nmX0bQJPLdwyrc
+   #EXTINF:-1 tvg-id="BBC FIRST" tvg-name="BBC FIRST" tvg-logo="https://picon-13398.kxcdn.com/bbcfirstpl.jpg" group-title="Film",BBC First
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21300
+   #EXTINF:-1 tvg-id="HBO l" tvg-name="HBO" tvg-logo="https://picon-13398.kxcdn.com/hbo1hd.jpg" group-title="Film",HBO
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqbkSnOeSkBLj95iCZFgW8-MYQhExgjle1fgvw2AZW-Npu7AleRbxE9SsKjKfKdGOI
+   #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://picon-13398.kxcdn.com/hbo2hd.jpg" group-title="Film",HBO 2
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvq7TOXW4JF9mFHZUNcMCrXoDSsLwUmyyp_olt3BhaxOQ8oVi7Wu-81emmJ798IHoVg
+   #EXTINF:-1 tvg-id="HBO 3" tvg-name="HBO 3" tvg-logo="https://picon-13398.kxcdn.com/hbo3hd.jpg" group-title="Film",HBO 3
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvogDOjCbmW0EfjsbuIHXIdX3TRTrUzC0NetAwqxcWCYvNfhQQsbEAbkynocatWcvwE
+   #EXTINF:-1 tvg-id="CANAL+ FILM" tvg-name="CANAL+ FILM" tvg-logo="https://picon-13398.kxcdn.com/canalplusfilmhd.jpg" group-title="Film",Canal+ Film
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21304
+   #EXTINF:-1 tvg-id="CANAL+ SERIALE" tvg-name="CANAL+ SERIALE" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Film",Canal+ Seriale
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21307
+   #EXTINF:-1 tvg-id="CANAL+ PREMIUM" tvg-name="CANAL+ PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Film",Canal+ Premium
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21306
+   #EXTINF:-1 tvg-id="CANAL+ 1" tvg-name="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",Canal+ 1
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvq3Vji9zk-BOlPhsZ5CVWK2az8H9fehmvkLgdgWXnulTID1EYMforeYDgXAyQGoSM8
+   #EXTINF:-1 tvg-id="CANAL+ FAMILY" tvg-name="CANAL+ FAMILY" tvg-logo="https://picon-13398.kxcdn.com/canalplusfamily.jpg" group-title="Film",Canal+ Family
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21303
+   #EXTINF:-1 tvg-id="FILMBOX PREMIUM" tvg-name="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FilmBox Premium
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvrj5AlIUriFEJeSZddbh_NfV1MHA5n4xEPhj5s84y95LA1hP0zIvU044mOgqtSdXLg
+   #EXTINF:-1 tvg-id="FILMBOX EXTRA" tvg-name="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FilmBox Extra
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqLHFKEaZ3mb2Yy2weDJcMCm_waBECwDyl_i-JxVxCoYs3zYBZNb_FrfsB4w3NaS9U
+   #EXTINF:-1 tvg-id="KINO TV" tvg-name="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",Kino TV
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvoBMvw2ZCqYXIUupv9hOuWxN8MNBPGB7s6wpy8MI1S8KZb_8S_GS03dXSI5wT3ZeXk
+   #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Film",AXN
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvrVIDzp0qEXjKhg5RX97VDPv5oD-B2ooTUTl0GtDxuYLybyWpguyGK1j9IpaSRD400
+   #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Film",AMC
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21290
+   #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Film",FOX
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvoHiJKcqNUSysfG-aJCmo_13qk3xrj701SMKxWPxL5xhr43gEQJRUghcg-j7WxtdTA
+   #EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",Sundance TV
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvoWtEIqk24ncyD8oM3BHlayHIpYAJJXQ-cXd0gonZETLml7nyITYgpFekmCxJ6PjTg
+   #EXTINF:-1 tvg-id="POLSAT" tvg-name="POLSAT" tvg-logo="https://picon-13398.kxcdn.com/polsathd.jpg" group-title="Film",Polsat
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvrlpE_6ySACRvWxkDgXrZW6ZpBlX1zppNUa3_r63NHsotWHeGyFaJXqBDRjwAo6GWU
+   #EXTINF:-1 tvg-id="POLSAT FILM" tvg-name="POLSAT FILM" tvg-logo="https://picon-13398.kxcdn.com/polsatfilmhd.jpg" group-title="Film",Polsat Film
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvr-m9VvaZ3q2tTxBGxrTAN-9BKFQNZ46BapVLoVaozUkXJUkJO4oa-b8ukmngyEN5w
+   #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://picon-13398.kxcdn.com/tvnhd.jpg" group-title="Film",TVN
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvrM_ta3zeD_Mgno-pnhQPLNHRCzTQo7eqFyeSuTTN3-fr03RvWBPNhGdpUAXbisYko
+   #EXTINF:-1 tvg-id="TVN FABULA" tvg-name="TVN FABULA" tvg-logo="https://picon-13398.kxcdn.com/tvnfabula.jpg" group-title="Film",TVN Fabuła
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvoBQwgiuJAKxSlYF4ja35onIYScaI-zCQC5OHUrjPxzZNTOIEFR1D4G7NrUOAWYYzM
+   #EXTINF:-1 tvg-id="TVN 7" tvg-name="TVN 7" tvg-logo="https://picon-13398.kxcdn.com/tvn7hd.jpg" group-title="Film",TVN 7
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvpQtpFZhA9IoyIaKlMr-_4yBOzDMXAShsaMSyl7reZgHDqN_MdtOdsZTnfTaNBfXdE
+   #EXTINF:-1 tvg-id="STOPKLATKA" tvg-name="STOPKLATKA" tvg-logo="https://picon-13398.kxcdn.com/stopklatkatv.jpg" group-title="Film",Stopklatka
+http://infinitymedia.live:8880/play/live.php?mac=00:1a:79:69:29:61&stream=859386&extension=ts
+
+   #EXTINF:-1 tvg-id="POLSAT VIASAT EXPLORE" tvg-name="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Nauka",Polsat Viasat Explore
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqgQDDi_0r84ST_1-UfFDKxrldkCbB-BwnsYN6QmtEPZjyxwnFQgPH7CxS4GOKaBOs
+   #EXTINF:-1 tvg-id="TVP DOKUMENT" tvg-name="TVP DOKUMENT" tvg-logo="https://epg.ovh/logo/TVP+Dokument.png" group-title="Nauka",TVP Dokument
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=DOK&chID=
+   #EXTINF:-1 tvg-id="TVP NAUKA" tvg-name="TVP NAUKA" tvg-logo="https://epg.ovh/logo/TVP+Nauka.png" group-title="Nauka",TVP Nauka
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=NK&chID=
+   #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Nauka",National Geographic
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvrev-k-aHPhpnKOuIeoPSATX-7l5HtAMOkO2-bkzo4-agKdox_6_uYwGkdkQMpMAKI
+   #EXTINF:-1 tvg-id="PLANETE+" tvg-name="PLANETE+" tvg-logo="https://picon-13398.kxcdn.com/planeteplushd.jpg" group-title="Nauka",Planete+
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvoizdrO_Z7yHT8a0aznLaO2J2hD92MrQeHyKHWZ7JcoFz26TNjkzdAYVb6uLtbPGnI
+   #EXTINF:-1 tvg-id="FOKUS TV" tvg-name="FOKUS TV" tvg-logo="https://picon-13398.kxcdn.com/fokustv.jpg" group-title="Nauka",Fokus TV
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvoPjjaYwSR94QUJezYSUbfG-Nvt8idxgNL9QfAGKlKwEzHW7I6tKNlPq9T1Dx1ZS1c
+   #EXTINF:-1 tvg-id="TVP HISTORIA" tvg-name="TVP HISTORIA" tvg-logo="https://picon-13398.kxcdn.com/tvphistoria.jpg" group-title="Nauka",TVP Historia
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=TKH&chID=
+   #EXTINF:-1 tvg-id="TVP HISTORIA 2" tvg-name="TVP HISTORIA 2" tvg-logo="https://picon-13398.kxcdn.com/tvphistoria.jpg" group-title="Nauka",TVP Historia 2
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=&chID=52491554
+
+   #EXTINF:-1 tvg-id="POLSAT SPORT" tvg-name="POLSAT SPORT" tvg-logo="https://picon-13398.kxcdn.com/polsatsporthd.jpg" group-title="Sport",Polsat Sport
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvp_GdHEOFQX0vbp2vxS62ndNt7vb1Fn5RZ1vDx1Lw_G4XTjqVE-qOK90yid4KnmjAM
+   #EXTINF:-1 tvg-id="POLSAT SPORT EXTRA" tvg-name="POLSAT SPORT EXTRA" tvg-logo="https://picon-13398.kxcdn.com/polsatsportextrahd.jpg" group-title="Sport",Polsat Sport Extra
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqQC8rPnvrfYvJ9IS5w55XPSH5c-26SV8uYKsoX7lzBPwzd0aIi1BhxQHsHag1rhXg
+   #EXTINF:-1 tvg-id="POLSAT SPORT NEWS" tvg-name="POLSAT SPORT NEWS" tvg-logo="https://picon-13398.kxcdn.com/polsatsportnewspl.jpg" group-title="Sport",Polsat Sport News
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvrDge5L7Q2uJ9Gc8ok5BSRozwsrcye-dkEk4x8l-qP1CvhuUr3CofBNmlmnrXQzHmQ
+   #EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg" group-title="Sport",Sky Sports F1 SD
+http://infinitymedia.live:8880/play/live.php?mac=00:1a:79:69:29:61&stream=623905&extension=ts
+   #EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg" group-title="Sport",Sky Sports F1 HD
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvq7s5FQCQiekYNTWgtYoVSWfHZAOqyHmEPHNyFAqauHXev6eOJ2tGfSWB5MfQBDb5Y
+   #EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" tvg-logo="https://picon-13398.kxcdn.com/skysportsf1hd-clivebesle.jpg" group-title="Sport",Sky Sports F1 FHD
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/15849
+   #EXTINF:-1 tvg-id="CANAL+ SPORT" tvg-name="CANAL+ SPORT" tvg-logo="https://picon-13398.kxcdn.com/canalplussport.jpg" group-title="Sport",Canal+ Sport
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqJhMuq5bGrr1_OtEHfzrZEmiIp-5MM7j4XGURYS_FLkNexLdzIRDAud-YvLkjTECQ
+   #EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",Canal+ Sport 2
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqeO4JIzniQrqLEaqnK77uZ15zsW6QCPk1dzgptKk2wdRaLSQMMCwR5n9kZp0GCbu8
+   #EXTINF:-1 tvg-id="TENNIS CHANNEL" tvg-name="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",Tennis Channel
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqR6KCoryXc9M0INDRKaWzaFTlB9Pk48LME1EcXWv8us0QEOOyU68ceDzJksxRfrpc
+   #EXTINF:-1 tvg-id="TVP SPORT" tvg-name="TVP SPORT" tvg-logo="https://picon-13398.kxcdn.com/tvpsporthd.jpg" group-title="Sport",TVP Sport
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=KSP&chID=
+   #EXTINF:-1 tvg-id="EUROSPORT 1" tvg-name="EUROSPORT 1" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Sport",Eurosport 1
+http://infinitymedia.live:8880/play/live.php?mac=00:1a:79:69:29:61&stream=859323&extension=ts
+   #EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Sport",Eurosport 2
+http://infinitymedia.live:8880/play/live.php?mac=00:1a:79:69:29:61&stream=859324&extension=ts
+   #EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://picon-13398.kxcdn.com/elvensports1pl.jpg" group-title="Sport",Eleven Sports 1
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvpFIy8EOsR4WhNnN9_2wLrSya_QuQdFASMDjaobUp4X9wpYp_Cpv3G2a--7LntLQbU
+   #EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://picon-13398.kxcdn.com/elvensports2pl.jpg" group-title="Sport",Eleven Sports 2
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvpQ3BafLuXz6UnG7pYES5AScorT0qhGa5imVah3LDdlqi2D1RrHflTa3FRs_at7Zmk
+   #EXTINF:-1 tvg-id="MOTOWIZJA" tvg-name="MOTOWIZJA" tvg-logo="https://picon-13398.kxcdn.com/motowizjatv.jpg" group-title="Sport",Motowizja
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvonYXk4WWiS6j5CLld2WmU42fsmPlRauv4HvWt0M-Te-fPb8S4s23vbkfjb-qzMGEo
+   #EXTINF:-1 tvg-id="SPORT KLUB" tvg-name="SPORT KLUB" tvg-logo="https://picon-13398.kxcdn.com/sportklub.jpg" group-title="Sport",Sport Klub
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvo6ZVMzgjKfFjqv-41bCzbL17FbUrzyr1ON4rLj16g0JSf4Do1N7CfGKKhSJ3o308g
+
+   #EXTINF:-1 tvg-id="STUDIOMED TV" tvg-name="STUDIOMED TV" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png" group-title="Nauka",StudioMed TV
+http://abmsmarttv.com:8080/live/Ibodemir/TGA3qPvxwDqy/72748.ts
+   #EXTINF:-1 tvg-id="TVP KOBIETA" tvg-name="TVP KOBIETA" tvg-logo="https://epg.ovh/logo/TVP+Kobieta.png" group-title="Nauka",TVP Kobieta
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=KBT&chID=
+   #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Nauka",TLC
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvqL1fM1pDnpmpj6qyCHXN54caMLpV1x8Fdwzp5_U77vHCVuPV_tlw7skQ1ira2MTV8
+
+   #EXTINF:-1 tvg-id="KRONEHIT TV" tvg-name="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",Kronehit TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+   #EXTINF:-1 tvg-id="FIRST MUSIC" tvg-name="FIRST MUSIC" tvg-logo="https://picon-13398.kxcdn.com/1musicchannelro.jpg" group-title="Muzyka",First Music
+http://rtmp.one.by:1300
+   #EXTINF:-1 tvg-id="NICKMUSIC" tvg-name="NICKMUSIC" tvg-logo="https://picon-13398.kxcdn.com/nickmusicnl.jpg" group-title="Muzyka",NickMusic
+http://foreverfuntv.de:8080/play/live.php?mac=00:1A:79:AB:5A:3B&stream=4832&extension=ts
+   #EXTINF:-1 tvg-id="MTV 80S" tvg-name="MTV 80S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 80s
+http://vip.lotusnet.digital:19051/Mondi/VBFyhlMhbu/21374
+   #EXTINF:-1 tvg-id="MTV 90S" tvg-name="MTV 90S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 90s
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvozg4lthSCrj2-T_IJXFC_3vqpJMbNXwt7_izskcO_RYsSdLjmYX24wDXnLESNqI50
+   #EXTINF:-1 tvg-id="MTV 00S" tvg-name="MTV 00S" tvg-logo="https://picon-13398.kxcdn.com/mtv.jpg" group-title="Muzyka",MTV 00s
+http://tvc.raam.re:2082/play/mZ7r9DF95S3AC3VkWfLMUmYRWEoUYti07CvG2EkXFwrhu1cxXUi_fG04Q7kRrvIl4xPGlhDduXkDDkWe1_cfuNKdIZSoxA8_COkhgHnJmvo1CpzYVBjjXSrxdN7bEpFNsQ7STDnCBYf2CGzdLVhdhXdf42A3WvRHIZ3pHF-1MdE
+
+   #EXTINF:-1 tvg-id="TVP INFO" tvg-name="TVP INFO" tvg-logo="https://picon-13398.kxcdn.com/tvpinfohdpl.jpg" group-title="Informacja",TVP Info
+plugin://plugin.video.TVP_VOD/?mode=playLiveTV&chCode=INF&chID=
+   #EXTINF:-1 tvg-id="TV REPUBLIKA" tvg-name="TV REPUBLIKA" tvg-logo="https://picon-13398.kxcdn.com/tvrepublika.jpg" group-title="Informacja",TV Republika
+http://188.47.212.71/jupiter/o1-cl1/live/tvrepublika/live.m3u8
+
+  #EXTINF: radio="true",Evropa 2
+https://22333.live.streamtheworld.com/EVROPA2AAC.aac
+  #EXTINF: radio="true",RMF FM
+http://195.150.20.242:8000/rmf_fm
+  #EXTINF: radio="true",Radio ZET
+https://zt03.cdn.eurozet.pl/zet-tun.mp3
+  #EXTINF: radio="true",Eska Warszawa
+http://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-warszawa
+  #EXTINF: radio="true",Radio Wnet
+http://audio.radiownet.pl:8000/stream64
