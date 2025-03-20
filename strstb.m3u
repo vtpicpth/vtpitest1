@@ -4,7 +4,7 @@ http://178.219.128.68:64889/ALEKINOHD
 #EXTINF:0 tvg-id="FILM CAFE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
 http://195.189.60.33:9011/play/a005
 #EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FILMBOX PREMIUM
-http://portal.freeott.top:8080/lb0/PL_Filmbox_Premium_HD/video.m3u8?token=Freeott
+http://178.219.128.68:64888/FILMPREMHD
 #EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
 http://178.219.128.68:64888/FILMEXTRHD
 #EXTINF:0 tvg-id="FILMBOX FAMILY" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film",FILMBOX FAMILY
@@ -15,8 +15,6 @@ http://109.233.89.166/CINEMAX_HD/index.m3u8
 http://109.233.89.166/CINEMAX_2_HD/index.m3u8
 #EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
 http://109.233.89.170/Paramount_Channel_HD/index.m3u8
-#EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Serial",EPIC DRAMA
-http://stb.freeott.top:8080/lb0/PL_Epic_Drama_HD/video.m3u8?token=Freeott
 #EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
 http://109.233.89.170/FOX_HD/index.m3u8
 #EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
@@ -46,8 +44,6 @@ http://109.233.89.170/Romance_TV_HD/index.m3u8
 
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
 http://178.219.128.68:64889/NATIGEOGHD
-#EXTINF:0 tvg-id="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/DISCOVERY.jpg" group-title="Wiedza",DISCOVERY
-http://stb.freeott.top:8080/lb0/PL_Discovery_HD/video.m3u8?token=Freeott
 #EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
 http://178.219.128.68:64889/POLSVIASEXPLHD
 #EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
