@@ -17,20 +17,12 @@ http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68464
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68394
 #EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68353
-#EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Serial",EPIC DRAMA
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68444
-#EXTINF:0 tvg-id="BBC FIRST" tvg-logo="https://picon-13398.kxcdn.com/bbcfirstpl.jpg" group-title="Serial",BBC FIRST
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68481
 #EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68427
 #EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68420
 #EXTINF:0 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_2.jpg" group-title="Film",HBO 2
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68419
-#EXTINF:0 tvg-id="HBO 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_3.jpg" group-title="Film",HBO 3
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68418
-#EXTINF:0 tvg-id="CANAL+ SERIALE" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Serial",CANAL+ SERIALE
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68470
 #EXTINF:0 tvg-id="CANAL+ PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Film",CANAL+ PREMIUM
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68473
 #EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
@@ -51,8 +43,12 @@ http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68459
 #EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68367
 
-#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/SKY_SPORTS_F1.jpg" group-title="Sport",SKY SPORTS F1
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/117032
+#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
+http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68371
+#EXTINF:0 tvg-id="ELEVEN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ELEVEN_SPORTS_1.jpg" group-title="Sport",ELEVEN SPORTS 1
+http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68450
+#EXTINF:0 tvg-id="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",CANAL+ SPORT 2
+http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68471
 #EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:0 tvg-id="TENNIS CHANNEL 2" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL 2
