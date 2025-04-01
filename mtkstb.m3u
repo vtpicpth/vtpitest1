@@ -7,8 +7,6 @@ http://185.236.229.62:9981/play/a06i
 http://
 #EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
 http://
-#EXTINF:0 tvg-id="FILMBOX ACTION" tvg-logo="https://picon-13398.kxcdn.com/filmboxaction.jpg" group-title="Film",FILMBOX ACTION
-http://185.236.229.62:9981/play/a033
 #EXTINF:0 tvg-id="FILMBOX FAMILY" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film",FILMBOX FAMILY
 http://
 #EXTINF:0 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX.jpg" group-title="Film",CINEMAX
