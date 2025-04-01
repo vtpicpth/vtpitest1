@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
 http://
 #EXTINF:0 tvg-id="FILM CAFE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
-http://
+http://185.236.229.62:9981/play/a06i
 #EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FILMBOX PREMIUM
 http://
 #EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
@@ -16,7 +16,7 @@ http://
 #EXTINF:0 tvg-id="CINEMAX 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX_2.jpg" group-title="Film",CINEMAX 2
 http://
 #EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
-http://
+http://185.236.229.62:9981/play/a069
 #EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
 http://
 #EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://picon-13398.kxcdn.com/drama.jpg" group-title="Serial",EPIC DRAMA
@@ -40,25 +40,26 @@ http://
 #EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
 http://
 #EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
-http://
+http://185.236.229.62:9981/play/a031
 #EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
 http://
-#EXTINF:0 tvg-id="AXN BLACK" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/AXN_BLACK.jpg" group-title="Serial",AXN BLACK
-http://185.236.229.62:9981/play/a075
 #EXTINF:0 tvg-id="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",SUNDANCE TV
-http://185.236.229.62:9981/play/a03i
+
 #EXTINF:0 tvg-id="ROMANCE TV" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Film",ROMANCE TV
 http://
 
+#EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+
 #EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/SKY_SPORTS_F1.jpg" group-title="Sport",SKY SPORTS F1
-https://7pal.short.gy/ssportsf1
+http://bww3421u4.11121367.xyz:8080/rJE2sbTqTg/4a0kWRfF97/234493
 #EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:0 tvg-id="TENNIS CHANNEL 2" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL 2
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
-http://itekfzco.com:80/YvjhYCwDTk/HS8ZldQF9s/165670
+http://185.236.229.62:9981/play/a027
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:0 tvg-id="WEBCAMERA.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
@@ -69,8 +70,6 @@ https://streaming.airmax.pl/nysa_panorama/tracks-v1/mono.m3u8
 https://streaming.airmax.pl/wroclaw_fabryczna_panorama/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA OPOLE
 https://hoktastream4.webcamera.pl/opole_cam_8b53d4/opole_cam_8b53d4.stream/playlist.m3u8
-#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA PRUDNIK
-http://streaming.prudnik.eu/Rynek.m3u8
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
