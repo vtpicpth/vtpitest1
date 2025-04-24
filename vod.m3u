@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:0 group-title="Film VOD",12 MAŁP (1995 S-F)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639876.avi&type=movie
 #EXTINF:0 group-title="Film VOD",21 MOSTÓW (2019 KRY)
@@ -69,8 +69,6 @@ http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641199.avi&t
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641201.avi&type=movie
 #EXTINF:0 group-title="Film VOD",UCIEKINIER (1987 S-F)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=641361.avi&type=movie
-#EXTINF:0 group-title="Film VOD",LIKWIDATOR (2013 SEN)
-http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=640579.avi&type=movie
 #EXTINF:0 group-title="Film VOD",1944 (2015 DRA)
 http://nxtplay.xyz:8080/play/movie.php?mac=00:1A:79:A4:D1:E2&stream=639884.avi&type=movie
 #EXTINF:0 group-title="Film VOD",AUTOR WIDMO (2010 KRY)
