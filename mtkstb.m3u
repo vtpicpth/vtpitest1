@@ -32,9 +32,9 @@ http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68411
 #EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68492
 #EXTINF:0 tvg-id="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",SUNDANCE TV
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68357
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/e02f357c-de0f-461f-9928-949889a786fb.ts
 #EXTINF:0 tvg-id="ROMANCE TV" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Film",ROMANCE TV
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68362
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/a58cea4f-b711-4935-ab88-5848b99d76e2.ts
 
 #EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68401
@@ -42,6 +42,9 @@ http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68401
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68459
 #EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+
+#EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/729629f0-1c3f-4504-a229-17cab8264f6d.ts
 
 #EXTINF:0 tvg-id="POLSAT SPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_1.jpg" group-title="Sport",POLSAT SPORT 1
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68371
