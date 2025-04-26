@@ -16,8 +16,6 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6102/index.m3u8
 #EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/729629f0-1c3f-4504-a229-17cab8264f6d.ts
 
-#EXTINF:0 tvg-id="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",CANAL+ SPORT 2
-http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6099/index.m3u8
 #EXTINF:0 tvg-id="TENNIS CHANNEL 2" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL 2
 https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
 
