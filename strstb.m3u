@@ -1,73 +1,59 @@
 ﻿#EXTM3U
-#EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68483
-#EXTINF:0 tvg-id="FILM CAFE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68469
-#EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/filmboxpremium.jpg" group-title="Film",FILMBOX PREMIUM
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68428
-#EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://picon-13398.kxcdn.com/filmboxextrahd.jpg" group-title="Film",FILMBOX EXTRA
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68431
-#EXTINF:0 tvg-id="FILMBOX FAMILY" tvg-logo="https://picon-13398.kxcdn.com/filmboxfamily.jpg" group-title="Film",FILMBOX FAMILY
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68430
+#EXTINF:0 tvg-id="FILMBOX PREMIUM" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILMBOX_PREMIUM.jpg" group-title="Film",FILMBOX PREMIUM
+http://bocian.io:8880/NL753811/552284900/105376
+#EXTINF:0 tvg-id="FILMBOX EXTRA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILMBOX_EXTRA.jpg" group-title="Film",FILMBOX EXTRA
+http://bocian.io:8880/NL753811/552284900/105373
+#EXTINF:0 tvg-id="FILMBOX FAMILY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILMBOX_FAMILY.jpg" group-title="Film",FILMBOX FAMILY
+http://bocian.io:8880/NL753811/552284900/105377
 #EXTINF:0 tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX.jpg" group-title="Film",CINEMAX
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68465
+http://bocian.io:8880/NL753811/552284900/105371
 #EXTINF:0 tvg-id="CINEMAX 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CINEMAX_2.jpg" group-title="Film",CINEMAX 2
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68464
-#EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://picon-13398.kxcdn.com/paramountchannelhd.jpg" group-title="Film",PARAMOUNT NETWORK
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68394
-#EXTINF:0 tvg-id="WARNER TV" tvg-logo="https://picon-13398.kxcdn.com/warnerhdlam.jpg" group-title="Film",WARNER TV
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68353
-#EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68427
+http://bocian.io:8880/NL753811/552284900/105372
+#EXTINF:0 tvg-id="FILM CAFE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FILM_CAFE.jpg" group-title="Film",FILM CAFE
+http://bocian.io:8880/NL753811/552284900/105406
 #EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68420
+http://bocian.io:8880/NL753811/552284900/105368
 #EXTINF:0 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_2.jpg" group-title="Film",HBO 2
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68419
-#EXTINF:0 tvg-id="CANAL+ PREMIUM" tvg-logo="https://picon-13398.kxcdn.com/canalplushd.jpg" group-title="Film",CANAL+ PREMIUM
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68473
-#EXTINF:0 tvg-id="CANAL+ 1" tvg-logo="https://picon-13398.kxcdn.com/canalplus1hd.jpg" group-title="Film",CANAL+ 1
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68475
-#EXTINF:0 tvg-id="KINO TV" tvg-logo="https://picon-13398.kxcdn.com/kinotvpl.jpg" group-title="Film",KINO TV
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68411
-#EXTINF:0 tvg-id="AXN" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Serial",AXN
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68492
+http://bocian.io:8880/NL753811/552284900/105369
+#EXTINF:0 tvg-id="HBO 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_3.jpg" group-title="Film",HBO 3
+http://bocian.io:8880/NL753811/552284900/105370
+#EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
+http://bocian.io:8880/NL753811/552284900/105361
+#EXTINF:0 tvg-id="EPIC DRAMA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/EPIC_DRAMA.jpg" group-title="Serial",EPIC DRAMA
+http://bocian.io:8880/NL753811/552284900/105417
+#EXTINF:0 tvg-id="BBC FIRST" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/BBC_FIRST.jpg" group-title="Serial",BBC FIRST
+http://bocian.io:8880/NL753811/552284900/105402
+#EXTINF:0 tvg-id="FX" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Serial",FX
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6108/index.m3u8
+#EXTINF:0 tvg-id="CANAL+ FILM" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CANAL+_FILM.jpg" group-title="Film",CANAL+ FILM
+http://bocian.io:8880/NL753811/552284900/105364
+#EXTINF:0 tvg-id="CANAL+ SERIALE" tvg-logo="https://picon-13398.kxcdn.com/canalplusserialehd.jpg" group-title="Serial",CANAL+ SERIALE
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6104/index.m3u8
 #EXTINF:0 tvg-id="SUNDANCE TV" tvg-logo="https://picon-13398.kxcdn.com/sundancetv.jpg" group-title="Film",SUNDANCE TV
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68357
-
-#EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68401
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/e02f357c-de0f-461f-9928-949889a786fb.ts
+#EXTINF:0 tvg-id="ROMANCE TV" tvg-logo="https://picon-13398.kxcdn.com/romancetv.jpg" group-title="Serial",ROMANCE TV
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/a58cea4f-b711-4935-ab88-5848b99d76e2.ts
+#EXTINF:0 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/NATIONAL_GEOGRAPHIC.jpg" group-title="Wiedza",NATIONAL GEOGRAPHIC
+http://bocian.io:8880/NL753811/552284900/105423
 #EXTINF:0 tvg-id="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/DISCOVERY.jpg" group-title="Wiedza",DISCOVERY
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68459
-#EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68367
-#EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://picon-13398.kxcdn.com/viasatexplore.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
-https://da9c49fa.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/7b77a42f-d143-4022-be6d-549e3f3c27c9/2.m3u8
-#EXTINF:0 tvg-id="MOCONOMY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/MOCONOMY.jpg" group-title="Wiedza",MOCONOMY
-https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6102/index.m3u8
 
-#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68371
-#EXTINF:0 tvg-id="ELEVEN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ELEVEN_SPORTS_1.jpg" group-title="Sport",ELEVEN SPORTS 1
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68450
-#EXTINF:0 tvg-id="CANAL+ SPORT 2" tvg-logo="https://picon-13398.kxcdn.com/canalplussport2hd.jpg" group-title="Sport",CANAL+ SPORT 2
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68471
-#EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="TENNIS CHANNEL 2" tvg-logo="https://picon-13398.kxcdn.com/tennischannelus.jpg" group-title="Sport",TENNIS CHANNEL 2
-https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/729629f0-1c3f-4504-a229-17cab8264f6d.ts
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
-http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/68339
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/610afe23-79a2-4d0d-b607-dbbe08297b50.ts
+#EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA zapas
+http://bocian.io:8880/NL753811/552284900/105463
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:0 tvg-id="WEBCAMERA.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
 https://hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8
-#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA NYSA
-https://streaming.airmax.pl/nysa_panorama/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA WROCŁAW
-https://streaming.airmax.pl/wroclawpanorama/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA OPOLE
-https://hoktastream4.webcamera.pl/opole_cam_8b53d4/opole_cam_8b53d4.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
+https://windnew.newkso.ru/wind/premium50/mono.m3u8
+#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",SKY SPORTS F1
+http://89.47.232.132:8080/play/live.php?mac=00:1A:79:14:E4:55&stream=436439&extension=ts
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8

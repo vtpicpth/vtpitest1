@@ -13,6 +13,8 @@ http://bocian.io:8880/NL753811/552284900/105372
 http://bocian.io:8880/NL753811/552284900/105406
 #EXTINF:0 tvg-id="HBO l" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO.jpg" group-title="Film",HBO
 http://bocian.io:8880/NL753811/552284900/105368
+#EXTINF:0 tvg-id="HBO 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_2.jpg" group-title="Film",HBO 2
+http://bocian.io:8880/NL753811/552284900/105369
 #EXTINF:0 tvg-id="HBO 3" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HBO_3.jpg" group-title="Film",HBO 3
 http://bocian.io:8880/NL753811/552284900/105370
 #EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
@@ -39,13 +41,6 @@ http://b3659824.rossteleccom.net/iptv/BCGWTA42BLCZPK/6102/index.m3u8
 #EXTINF:0 tvg-id="STUDIOMED TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STUDIOMED_TV.jpg" group-title="Styl życia",STUDIOMED TV
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/729629f0-1c3f-4504-a229-17cab8264f6d.ts
 
-#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
-https://windnew.newkso.ru/wind/premium50/mono.m3u8
-#EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TENNIS_CHANNEL.jpg" group-title="Sport",TENNIS CHANNEL
-http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:0 tvg-id="TENNIS CHANNEL 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TENNIS_CHANNEL_2.jpg" group-title="Sport",TENNIS CHANNEL 2
-https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/a5183610-a690-40dc-bd38-cd216ab6cb77/3.m3u8
-
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/610afe23-79a2-4d0d-b607-dbbe08297b50.ts
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA zapas
@@ -54,6 +49,11 @@ http://bocian.io:8880/NL753811/552284900/105463
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:0 tvg-id="WEBCAMERA.PL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
 https://hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="POLSAT SPORT 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",POLSAT SPORT 2
+https://windnew.newkso.ru/wind/premium50/mono.m3u8
+#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",SKY SPORTS F1
+http://89.47.232.132:8080/play/live.php?mac=00:1A:79:14:E4:55&stream=436439&extension=ts
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://picon-13398.kxcdn.com/kronehit.jpg" group-title="Muzyka",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
