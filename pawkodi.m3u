@@ -3,6 +3,8 @@
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399700
 #EXTINF:0 tvg-id="TVP KULTURA 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_KULTURA_2.jpg" group-title="Film",TVP KULTURA 2
 plugin://plugin.video.TVP_VOD?mode=playLive&cid=399728
+#EXTINF:0 tvg-id="STOPKLATKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/STOPKLATKA.jpg" group-title="Film",STOPKLATKA
+plugin://plugin.video.megogo?mode=playSource&cid=20683846
 #EXTINF:0 tvg-id="TVP 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_1.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP 1
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399697
 #EXTINF:0 tvg-id="TVP 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_2.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP 2
@@ -19,16 +21,12 @@ plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399723
 plugin://plugin.video.playpuls?mode=playtv&sid=puls
 #EXTINF:0 tvg-id="PULS 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/PULS_2.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",PULS 2
 plugin://plugin.video.playpuls?mode=playtv&sid=puls2
-#EXTINF:0 tvg-id="POLSAT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT.jpg" group-title="Film" ,POLSAT
-plugin://plugin.video.vod_pl?mode=playT&cid=11046756
-#EXTINF:0 tvg-id="TV 4" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TV_4.jpg" group-title="Film" ,TV 4
-plugin://plugin.video.vod_pl?mode=playT&cid=11046757
+#EXTINF:0 tvg-id="TV4" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TV4.jpg" group-title="Film",TV4
+https://lb2-e2-32.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:0 tvg-id="POLSAT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT.jpg" group-title="Film",POLSAT
+https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:0 tvg-id="METRO" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/METRO.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",METRO
 plugin://plugin.video.vod_pl?mode=playT&cid=2930752
-#EXTINF:0 tvg-id="TELE 5" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TELE_5.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",TELE 5
-plugin://plugin.video.megogo?mode=playSource&cid=20853567
-#EXTINF:0 tvg-id="POLONIA 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLONIA_1.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",POLONIA 1
-plugin://plugin.video.megogo?mode=playSource&cid=20853577
 #EXTINF:0 tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVN.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN
 plugin://plugin.video.vod_pl?mode=playT&cid=1908473
 #EXTINF:0 tvg-id="TVN 7" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVN_7.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Ymd_HMS}&e={utcend:Ymd_HMS}" catchup-days="7" catchup-correction="0.0",TVN 7
@@ -43,12 +41,14 @@ plugin://plugin.video.rakuten_tv?mode=playSource&cid=bjgtjme-pl&lang=POL
 plugin://plugin.video.megogo?mode=playSource&cid=20683856
 #EXTINF:0 tvg-id="WP" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WP.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",WP
 plugin://plugin.video.megogo?mode=playSource&cid=20891427
+#EXTINF:0 tvg-id="RED CARPET TV INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RED_CARPET_TV_INTERNATIONAL.jpg" group-title="Film",RED CARPET TV INTERNATIONAL
+plugin://plugin.video.rakuten_tv?mode=playSource&cid=red-carpet-tv-international&lang=POL
+#EXTINF:0 tvg-id="CTV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CTV.jpg" group-title="Serial",CTV
+plugin://plugin.video.megogo?mode=playSource&cid=23349366
 #EXTINF:0 tvg-id="TVP ROZRYWKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ROZRYWKA.jpg" group-title="Rozrywka" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP ROZRYWKA
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399724
-#EXTINF:0 tvg-id="RED CARPET TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RED_CARPET_TV.jpg" group-title="Rozrywka",RED CARPET TV
-plugin://plugin.video.rakuten_tv?mode=playSource&cid=red-carpet-tv-international&lang=POL
-#EXTINF:0 tvg-id="TVS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVS.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",TVS
-plugin://plugin.video.megogo?mode=playSource&cid=20768696
+#EXTINF:0 tvg-id="TELE 5" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TELE_5.jpg" group-title="Serial" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",TELE 5
+plugin://plugin.video.megogo?mode=playSource&cid=20853567
 
 #EXTINF:0 tvg-id="TVP DOKUMENT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_DOKUMENT.jpg" group-title="Wiedza" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP DOKUMENT
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399721
@@ -60,8 +60,10 @@ plugin://plugin.video.TVP_VOD?mode=playLive&cid=399725
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399722
 #EXTINF:0 tvg-id="VIASAT EXPLORE CALSSIC" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/VIASAT_EXPLORE_CLASSIC.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=viasat-explore-pl&lang=POL
-#EXTINF:0 tvg-id="MOCONOMY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/MOCONOMY.jpg" group-title="Wiedza",MOCONOMY
-plugin://plugin.video.rakuten_tv?mode=playSource&cid=moconomy-pl&lang=POL
+#EXTINF:0 tvg-id="POLSAT VIASAT NATURE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_VIASAT_NATURE.jpg" group-title="Wiedza",POLSAT VIASAT NATURE
+https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
+#EXTINF:0 tvg-id="MURATOR TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/MURATOR_TV.jpg" group-title="Wiedza",MURATOR TV
+https://s-pl-01.mediatool.tv/playout/mupl-abr/index.m3u8
 
 #EXTINF:0 tvg-id="TVP SPORT" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_SPORT.jpg" group-title="Sport" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP SPORT
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399702
@@ -75,17 +77,42 @@ https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/a
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 #EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="hhttps://raw.githubusercontent.com/ZAtronik/picony/master/TENNIS_CHANNEL.jpg" group-title="Sport",TENNIS CHANNEL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:0 tvg-id="*PFL MMA" tvg-logo="hhttps://raw.githubusercontent.com/ZAtronik/picony/master/PFL_MMA.jpg" group-title="Sport",PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 plugin://plugin.video.trwam?mode=playLive&chan=republika
+#EXTINF:0 tvg-id="TV REPUBLIKA PLUS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA_PLUS.jpg" group-title="Informacja",REPUBLIKA PLUS
+plugin://plugin.video.trwam?mode=playLive&chan=republikatv
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 plugin://plugin.video.trwam?mode=playLive&chan=wpolsce
-#EXTINF:0 tvg-id="TV MN" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TV_MN.jpg" group-title="Informacja" ,TV MN
-plugin://plugin.video.trwam?mode=playLive&chan=mn
 #EXTINF:0 tvg-id="TVP INFO" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_INFO.jpg" group-title="Informacja" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP INFO
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399699
 #EXTINF:0 tvg-id="TVP 3 OPOLE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_3_OPOLE.jpg" group-title="Informacja" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP 3 OPOLE
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399750
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
+https://hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3u8
+#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA NYSA
+https://streaming.airmax.pl/nysa_panorama/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA WROCŁAW
+https://streaming.airmax.pl/wroclaw_fabryczna_panorama/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA OPOLE
+https://hoktastream4.webcamera.pl/opole_cam_8b53d4/opole_cam_8b53d4.stream/playlist.m3u8
+#EXTINF:0 tvg-id="WEBCAMERA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.jpg" group-title="Informacja",WEBCAMERA PRUDNIK
+http://streaming.prudnik.eu/Rynek.m3u8
+
+#EXTINF:0 tvg-id="TVP ALFA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ALFA.jpg" group-title="Dla dzieci",TVP ALFA
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ALFA&chID=
+#EXTINF:0 tvg-id="TVP ABC" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ABC.jpg" group-title="Dla dzieci",TVP ABC
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ABC&chID=
+#EXTINF:0 tvg-id="TVP ABC 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ABC_2.jpg" group-title="Dla dzieci",TVP ABC 2
+plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DMPR&chID=
+#EXTINF:0 tvg-id="4FUN KIDS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/4FUN_KIDS.jpg" group-title="Dla dzieci",4FUN KIDS
+https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
+#EXTINF:0 tvg-id="CARTOON CLASSICS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CARTOON_CLASSICS.jpg" group-title="Dla dzieci",CARTOON CLASSICS
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:0 tvg-id="CARTOON CLASSICS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CARTOON_CLASSICS.jpg" group-title="Dla dzieci",CARTOON CLASSICS
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
 #EXTINF:0 tvg-id="KRONEHIT TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/KRONEHIT_TV.jpg" group-title="Muzyka",KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
