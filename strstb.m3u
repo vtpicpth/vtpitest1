@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="KINO TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/KINO_TV.jpg" group-title="Film",KINO TV
-http://bocian.io:8880/NL753811/552284900/105390
 #EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/PARAMOUNT_NETWORK.jpg" group-title="Film",PARAMOUNT NETWORK
 http://bocian.io:8880/NL753811/552284900/105395
 #EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
@@ -42,6 +40,10 @@ http://bocian.io:8880/NL753811/552284900/105410
 http://bocian.io:8880/NL753811/552284900/105430
 #EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/VIASAT_EPLORE_CLASSIC.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:0 tvg-id="HISTORY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HISTORY.jpg" group-title="Wiedza",HISTORY
+http://bocian.io:8880/NL753811/552284900/105421
+#EXTINF:0 tvg-id="HISTORY 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HISTORY_2.jpg" group-title="Wiedza",HISTORY 2
+http://bocian.io:8880/NL753811/552284900/105422
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
 http://bocian.io:8880/NL753811/552284900/105463
@@ -52,5 +54,5 @@ https://hoktastream2.webcamera.pl/tv_cam_b21b94/tv_cam_b21b94.stream/playlist.m3
 
 #EXTINF:0 tvg-id="POLSAT SPORT 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_1.jpg" group-title="Sport",POLSAT SPORT 1
 http://bocian.io:8880/NL753811/552284900/105530
-#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_SPORT_2.jpg" group-title="Sport",SKY SPORTS F1
+#EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/SKY_SPORTS_F1.jpg" group-title="Sport",SKY SPORTS F1
 http://89.47.232.132:8080/play/live.php?mac=00:1A:79:14:E4:55&stream=436439&extension=ts
