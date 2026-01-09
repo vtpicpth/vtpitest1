@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ROMANCE TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ROMANCE_TV.jpg" group-title="Film",ROMANCE TV
 http://bocian.io:8880/NL753811/552284900/105394
-#EXTINF:0 tvg-id="KINO TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/KINO_TV.jpg" group-title="Film",KINO TV
-http://bocian.io:8880/NL753811/552284900/105390
 #EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/PARAMOUNT_NETWORK.jpg" group-title="Film",PARAMOUNT NETWORK
 http://bocian.io:8880/NL753811/552284900/105395
 #EXTINF:0 tvg-id="ALE KINO+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/ALE_KINO_+.jpg" group-title="Film",ALE KINO +
@@ -43,7 +41,7 @@ http://bocian.io:8880/NL753811/552284900/105410
 #EXTINF:0 tvg-id="POLSAT VIASAT EXPLORE" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_VIASAT_EPLORE.jpg" group-title="Wiedza",POLSAT VIASAT EXPLORE
 http://bocian.io:8880/NL753811/552284900/105430
 #EXTINF:0 tvg-id="VIASAT EXPLORE CLASSIC" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/VIASAT_EPLORE_CLASSIC.jpg" group-title="Wiedza",VIASAT EXPLORE CLASSIC
-https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+https://tiny.pl/ct76rj0g4
 #EXTINF:0 tvg-id="HISTORY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HISTORY.jpg" group-title="Wiedza",HISTORY
 http://bocian.io:8880/NL753811/552284900/105421
 #EXTINF:0 tvg-id="HISTORY 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/HISTORY_2.jpg" group-title="Wiedza",HISTORY 2
