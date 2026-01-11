@@ -6,15 +6,15 @@
     <language>pl</language>
     
   <item>
-  <title>20:00 - Nazwa audycji 1 </title>
+  <title>"20:00" - Nazwa audycji 1 </title>
   <description>Krótki opis audycji 1</description>
      </item>
  <item>
-  <title>21:30 - Nazwa audycji 2 </title>
+  <title>"21:30" - Nazwa audycji 2 </title>
   <description>Krótki opis audycji 2</description>
      </item>
  <item>
-  <title>22:50 - Nazwa audycji 3 itd </title>
+  <title>"22:50" - Nazwa audycji 3 itd </title>
   <description>Krótki opis audycji 3 itd</description>
      </item>
   </channel>
