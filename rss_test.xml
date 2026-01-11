@@ -4,119 +4,119 @@
     <display-name lang="Russian Federation">FilmBox Premium PL</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/08/20240608031801723413_60.png" />
   </channel>
-  <programme channel="7044" start="20260111005500 +0000" stop="20260111030500 +0000">
+  <item channel="7044" start="20260111005500 +0000" stop="20260111030500 +0000">
     <title lang="zh">Michael Clayton</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111030500 +0000" stop="20260111043000 +0000">
+  </item>
+  <item channel="7044" start="20260111030500 +0000" stop="20260111043000 +0000">
     <title lang="zh">Romans na dwie noce</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111043000 +0000" stop="20260111050500 +0000">
+  </item>
+  <item channel="7044" start="20260111043000 +0000" stop="20260111050500 +0000">
     <title lang="zh">Zakończenie programu</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111050500 +0000" stop="20260111064500 +0000">
+  </item>
+  <item channel="7044" start="20260111050500 +0000" stop="20260111064500 +0000">
     <title lang="zh">Chłopak dla szefowej</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111064500 +0000" stop="20260111081500 +0000">
+  </item>
+  <item channel="7044" start="20260111064500 +0000" stop="20260111081500 +0000">
     <title lang="zh">Joga dla dwojga</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111081500 +0000" stop="20260111100000 +0000">
+  </item>
+  <item channel="7044" start="20260111081500 +0000" stop="20260111100000 +0000">
     <title lang="zh">Misjonarze – krawaciarze</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111100000 +0000" stop="20260111115000 +0000">
+  </item>
+  <item channel="7044" start="20260111100000 +0000" stop="20260111115000 +0000">
     <title lang="zh">Kryptonim Panda</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111115000 +0000" stop="20260111132500 +0000">
+  </item>
+  <item channel="7044" start="20260111115000 +0000" stop="20260111132500 +0000">
     <title lang="zh">Duch świąt</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111132500 +0000" stop="20260111152000 +0000">
+  </item>
+  <item channel="7044" start="20260111132500 +0000" stop="20260111152000 +0000">
     <title lang="zh">Masz talent</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111152000 +0000" stop="20260111170000 +0000">
+  </item>
+  <item channel="7044" start="20260111152000 +0000" stop="20260111170000 +0000">
     <title lang="zh">Klub cudownych kobiet</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111170000 +0000" stop="20260111190500 +0000">
+  </item>
+  <item channel="7044" start="20260111170000 +0000" stop="20260111190500 +0000">
     <title lang="zh">Gra tajemnic</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111190500 +0000" stop="20260111205000 +0000">
+  </item>
+  <item channel="7044" start="20260111190500 +0000" stop="20260111205000 +0000">
     <title lang="zh">Dobrze się kłamie w miłym towarzystwie</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111205000 +0000" stop="20260111223000 +0000">
+  </item>
+  <item channel="7044" start="20260111205000 +0000" stop="20260111223000 +0000">
     <title lang="zh">Kolacja pożegnalna</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260111223000 +0000" stop="20260112000000 +0000">
+  </item>
+  <item channel="7044" start="20260111223000 +0000" stop="20260112000000 +0000">
     <title lang="zh">Granica</title>
     <desc />
     <date>2026-01-11</date>
-  </programme>
-  <programme channel="7044" start="20260112003000 +0000" stop="20260112021500 +0000">
+  </item>
+  <item channel="7044" start="20260112003000 +0000" stop="20260112021500 +0000">
     <title lang="zh">Powodzenia, Leo Grande!</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112021500 +0000" stop="20260112034000 +0000">
+  </item>
+  <item channel="7044" start="20260112021500 +0000" stop="20260112034000 +0000">
     <title lang="zh">Szkolna masakra tępym narzędziem</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112034000 +0000" stop="20260112043500 +0000">
+  </item>
+  <item channel="7044" start="20260112034000 +0000" stop="20260112043500 +0000">
     <title lang="zh">Zakończenie programu</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112043500 +0000" stop="20260112061500 +0000">
+  </item>
+  <item channel="7044" start="20260112043500 +0000" stop="20260112061500 +0000">
     <title lang="zh">Wszystkie drogi prowadzą do Rzymu</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112061500 +0000" stop="20260112080500 +0000">
+  </item>
+  <item channel="7044" start="20260112061500 +0000" stop="20260112080500 +0000">
     <title lang="zh">Stracone święta</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112080500 +0000" stop="20260112095500 +0000">
+  </item>
+  <item channel="7044" start="20260112080500 +0000" stop="20260112095500 +0000">
     <title lang="zh">Niewygodna prawda</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112095500 +0000" stop="20260112114000 +0000">
+  </item>
+  <item channel="7044" start="20260112095500 +0000" stop="20260112114000 +0000">
     <title lang="zh">Wampirzyce</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112114000 +0000" stop="20260112133500 +0000">
+  </item>
+  <item channel="7044" start="20260112114000 +0000" stop="20260112133500 +0000">
     <title lang="zh">Goalie. Legenda na bramce</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
-  <programme channel="7044" start="20260112133500 +0000" stop="20260113000000 +0000">
+  </item>
+  <item channel="7044" start="20260112133500 +0000" stop="20260113000000 +0000">
     <title lang="zh">Mała syrenka</title>
     <desc />
     <date>2026-01-12</date>
-  </programme>
+  </item>
 </tv>
