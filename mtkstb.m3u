@@ -58,3 +58,33 @@ http://bocian.io:8880/NL753811/552284900/105530
 http://bocian.io:8880/NL753811/552284900/105544
 #EXTINF:0 tvg-id="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/SKY_SPORTS_F1.jpg" group-title="Sport",SKY SPORTS F1
 http://89.47.232.132:8080/play/live.php?mac=00:1A:79:14:E4:55&stream=436439&extension=ts
+
+#EXTINF:0 tvg-id="1.FM - CAFE RADIO" tvg-logo="" group-title="Radio",1.FM - CAFE RADIO
+http://185.33.21.112:80/caferadio_128
+
+#EXTINF:0 tvg-id="1.FM - BELOVED BALLADS" tvg-logo="" group-title="Radio",1.FM - BELOVED BALLADS
+http://185.33.21.112:80/onelive_128
+
+#EXTINF:0 tvg-id="1.FM - CHILLOUT LOUNGE" tvg-logo="" group-title="Radio",1.FM - CHILLOUT LOUNGE
+http://185.33.21.112:80/chilloutlounge_128
+
+#EXTINF:0 tvg-id="181.FM - THE MIX" tvg-logo="" group-title="Radio",181.FM - THE MIX
+https://listen.181fm.com/181-themix_128k.mp3
+
+#EXTINF:0 tvg-id="181.FM - KICKIN' COUNTRY" tvg-logo="" group-title="Radio",181.FM - KICKIN' COUNTRY
+https://listen.181fm.com/181-kickincountry_128k.mp3
+
+#EXTINF:0 tvg-id="181.FM - POWER TOP 40 HITS" tvg-logo="" group-title="Radio",181.FM - POWER TOP 40 HITS
+https://listen.181fm.com/181-power_128k.mp3
+
+#EXTINF:0 tvg-id="181.FM - UK TOP 40 HITS" tvg-logo="" group-title="Radio",181.FM - UK TOP 40 HITS
+https://listen.181fm.com/181-uktop40_128k.mp3
+
+#EXTINF:0 tvg-id="ESKA" tvg-logo="" group-title="Radio",ESKA WARSZAWA
+http://pldm.ml/radio?url=https://www.eskago.pl/radio/eska-warszawa
+
+#EXTINF:0 tvg-id="RADIO ZET" tvg-logo="" group-title="Radio",RADIO ZET
+https://zt03.cdn.eurozet.pl/zet-tun.mp3
+
+#EXTINF:0 tvg-id="RMF FM" tvg-logo="" group-title="Radio",RMF FM
+http://195.150.20.242:8000/rmf_fm
