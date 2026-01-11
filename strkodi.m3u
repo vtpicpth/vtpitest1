@@ -58,7 +58,13 @@ http://bocian.io:8880/NL753811/552284900/105421
 http://bocian.io:8880/NL753811/552284900/105422
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
-http://bocian.io:8880/NL753811/552284900/105463
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+plugin://plugin.video.youtube/play/?video_id=dzntyCTgJMQ
+#EXTINF:0 tvg-id="REPUBLIKA PLUS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA_PLUS.jpg" group-title="Informacja",REPUBLIKA PLUS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+plugin://plugin.video.youtube/play/?video_id=9gtKUcF2UH4
 #EXTINF:0 tvg-id="WPOLSCE24" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WPOLSCE24.jpg" group-title="Informacja",WPOLSCE24
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WEBCAMERA.PL.jpg" group-title="Informacja",WEBCAMERA.PL
