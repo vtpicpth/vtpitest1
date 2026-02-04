@@ -17,6 +17,12 @@ plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=TRS&chID=aid_72827372
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399701
 #EXTINF:0 tvg-id="TVP POLONIA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_POLONIA.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP POLONIA
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399723
+#EXTINF:0 tvg-id="KINO TV" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/KINO_TV.jpg" group-title="Film",KINO TV
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=filmbox_kinotv
+#EXTINF:0 tvg-id="PARAMOUNT NETWORK" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/PARAMOUNT_NETWORK.jpg" group-title="Film",PARAMOUNT NETWORK
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=sportta
+#EXTINF:0 tvg-id="13 ULICA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/13_ULICA.jpg" group-title="Serial",13 ULICA
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=nowa_tvhv
 #EXTINF:0 tvg-id="PULS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/PULS.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",PULS
 plugin://plugin.video.playpuls?mode=playtv&sid=puls
 #EXTINF:0 tvg-id="PULS 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/PULS_2.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",PULS 2
@@ -41,8 +47,12 @@ plugin://plugin.video.rakuten_tv?mode=playSource&cid=bjgtjme-pl&lang=POL
 https://vs2129.vcdn.biz/93caa5cc5c975b9b867ec00e6ecae9a5_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157764221/rsid/537c5c63-5f5c-41cb-b725-1d5d9594ad0f/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/185.72.187.183*asn/u_srvc/81255/u_did/web_4psQrBPeGcg8NVXMvX1kwlBAuGYwXqRJ/type.live/chunklist-sid2194095698192602737-b4000000.m3u8
 #EXTINF:0 tvg-id="WP" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/WP.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:Y-m-dTH:M:S}&e={utcend:Y-m-dTH:M:S}" catchup-days="7",WP
 plugin://plugin.video.wppilot?mode=playSource&cid=158
-#EXTINF:0 tvg-id="RED CARPET TV INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RED_CARPET_TV_INTERNATIONAL.jpg" group-title="Film",RED CARPET INTERNATIONAL
+#EXTINF:0 tvg-id="RED CARPET TV INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/RED_CARPET_TV_INTERNATIONAL.jpg" group-title="Film",RED CARPET TV INTERNATIONAL
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=red-carpet-tv-international&lang=POL
+#EXTINF:0 tvg-id="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/COMEDY_CENTRAL.jpg" group-title="Serial",COMEDY CENTRAL
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedycentralpl
+#EXTINF:0 tvg-id="POLSAT COMEDY CENTRAL EXTRA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/POLSAT_COMEDY_CENTRAL_EXTRA.jpg" group-title="Serial",POLSAT COMEDY CENTRAL EXTRA
+https://cdn.kinoteka.cc/weebtv/gen.m3u8.php?id=comedyfamily_sd
 #EXTINF:0 tvg-id="TVP ROZRYWKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ROZRYWKA.jpg" group-title="Rozrywka" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP ROZRYWKA
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399724
 #EXTINF:0 tvg-id="FAILARMY" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FAILARMY.jpg" group-title="Rozrywka",FAILARMY
