@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.ovh/pltv.gz
 #EXTINF:0 tvg-id="TVP KULTURA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_KULTURA.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP KULTURA
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399700
-#EXTINF:0 tvg-id="TVP KULTURA 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_KULTURA_2.jpg" group-title="Film",TVP KULTURA 2
+#EXTINF:0 tvg-id="TVP KULTURA 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_KULTURA_2.jpg" group-title="Film",TVP KULTURA 2 *
 plugin://plugin.video.TVP_VOD?mode=playLive&cid=399728
 #EXTINF:0 tvg-id="TVP 1" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_1.jpg" group-title="Film" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP 1
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399697
@@ -44,7 +44,7 @@ https://vs2129.vcdn.biz/01c0d67a9f854c6858817f6891f744ec_megogo/live/hls/b/700_2
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399721
 #EXTINF:0 tvg-id="TVP HISTORIA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_HISTORIA.jpg" group-title="Wiedza" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP HISTORIA
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399703
-#EXTINF:0 tvg-id="TVP HISTORIA 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_HISTORIA_2.jpg" group-title="Wiedza",TVP HISTORIA 2
+#EXTINF:0 tvg-id="TVP HISTORIA 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_HISTORIA_2.jpg" group-title="Wiedza",TVP HISTORIA 2 *
 plugin://plugin.video.TVP_VOD?mode=playLive&cid=399725
 #EXTINF:0 tvg-id="TVP NAUKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_NAUKA.jpg" group-title="Wiedza" catchup="append" catchup-source="&s={utc:YmdTHMS}&e={utcend:YmdTHMS}" catchup-days="7" catchup-correction="0.0",TVP NAUKA
 plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399722
@@ -58,16 +58,24 @@ plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399702
 #EXTINF:0 tvg-id="FIFA+" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FIFA+.jpg" group-title="Sport",FIFA+
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=fifa-plus-eu-new&lang=ENG
 #EXTINF:0 tvg-id="TOP BARCA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TOP_BARCA.jpg" group-title="Sport",TOP BARCA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=top-barca-eng&lang=ENG
 #EXTINF:0 tvg-id="TENNIS+" tvg-logo="hhttps://raw.githubusercontent.com/ZAtronik/picony/master/TENNIS+.jpg" group-title="Sport",TENNIS+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 #EXTINF:0 tvg-id="TENNIS CHANNEL" tvg-logo="hhttps://raw.githubusercontent.com/ZAtronik/picony/master/TENNIS_CHANNEL.jpg" group-title="Sport",TENNIS CHANNEL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:0 tvg-id="*PFL MMA" tvg-logo="hhttps://raw.githubusercontent.com/ZAtronik/picony/master/PFL_MMA.jpg" group-title="Sport",PFL MMA
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=pfl-mma&lang=ENG
 #EXTINF:0 tvg-id="*GLORY" tvg-logo="hhttps://raw.githubusercontent.com/ZAtronik/picony/master/GLORY.jpg" group-title="Sport",GLORY
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=glory-kickboxing&lang=ENG
 #EXTINF:0 tvg-id="*DAZN COMBAT" tvg-logo="hhttps://raw.githubusercontent.com/ZAtronik/picony/master/DAZN_COMBAT.jpg" group-title="Sport",DAZN COMBAT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 plugin://plugin.video.rakuten_tv?mode=playSource&cid=dazn-combat&lang=ENG
 
 #EXTINF:0 tvg-id="TV REPUBLIKA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/REPUBLIKA.jpg" group-title="Informacja",REPUBLIKA
@@ -117,10 +125,16 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:0 tvg-id="FIRST MUSIC" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/FIRST_MUSIC.jpg" group-title="Muzyka",FIRST MUSIC
 http://rtmp.one.by:1300
 #EXTINF:0 tvg-id="NOW 70S" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/NOW_70S.jpg" group-title="Muzyka",NOW 70s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="NOW 80S" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/NOW_80S.jpg" group-title="Muzyka",NOW 80s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="NOW 90S00S" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/NOW_90S80S.jpg" group-title="Muzyka",NOW 90s 00s
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 
 #EXTINF:0 ,*TYLKO PROGRAM*
