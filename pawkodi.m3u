@@ -130,11 +130,11 @@ http://streaming.prudnik.eu/Rynek.m3u8
 plugin://plugin.video.youtube/play/?video_id=A5kXiKzbBFs
 
 #EXTINF:0 tvg-id="TVP ALFA" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ALFA.jpg" group-title="Dla dzieci",TVP ALFA
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ALFA&chID=
+plugin://plugin.video.TVP_VOD?mode=playLive&cid=399726
 #EXTINF:0 tvg-id="TVP ABC" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ABC.jpg" group-title="Dla dzieci",TVP ABC
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=ABC&chID=
+plugin://plugin.video.TVP_VOD?mode=playLiveSC&cid=399704
 #EXTINF:0 tvg-id="TVP ABC 2" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/TVP_ABC_2.jpg" group-title="Dla dzieci",TVP ABC 2 *
-plugin://plugin.video.TVP_VOD?mode=playLiveTV&chCode=DMPR&chID=
+plugin://plugin.video.TVP_VOD?mode=playLive&cid=399727
 #EXTINF:0 tvg-id="4FUN KIDS" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/4FUN_KIDS.jpg" group-title="Dla dzieci",4FUN KIDS
 https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8
 #EXTINF:0 tvg-id="CAR CITY ADVENTURES" tvg-logo="https://raw.githubusercontent.com/ZAtronik/picony/master/CAR_CITY_ADVENTURES.jpg" group-title="Dla dzieci",CAR CITY ADVENTURES
