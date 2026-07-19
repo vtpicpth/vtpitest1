@@ -1,4 +1,4 @@
 ﻿#EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=828000,RESOLUTION=576x324,NAME="HBO"
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227429&extension=ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=828000,RESOLUTION=1920x1080,NAME="TVP HD"
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:A3:C0:BF&stream=227464&extension=ts
